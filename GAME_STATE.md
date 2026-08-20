@@ -5,14 +5,15 @@
 ## Sessione
 - Stato: IN CORSO
 - Giorno: 1
-- Ora: mattina presto
-- Luogo: Locanda del Cervo Grigio, Rovena
+- Ora: mattina
+- Luogo: Gilda degli Avventurieri, Rovena
 
 ## Protagonista
 - Nome: Kaelen
 - Età: sconosciuta
 - Razza: umano
 - Livello: 1
+- Grado gilda: D
 - HP: 100/100
 - Risorse: molto limitate
 - Condizioni: stanco ma rifocillato; nessuna ferita grave
@@ -20,35 +21,51 @@
 
 ### Abilità
 - Nessuna competenza significativa formalmente acquisita.
-- Prima esperienza pratica: trasporto di carichi pesanti in locanda.
+- Prima esperienza pratica: trasporto di carichi pesanti.
+- Ha dimostrato di sentirsi più naturale a mani nude che con una spada.
 
 ### Inventario
 - Abiti semplici e consumati
+- Tessera della Gilda degli Avventurieri, grado D
 - Nessuna arma affidabile
 - Pochissimi effetti personali
 
 ### Denaro
-- 0
+- 1 moneta di rame
 
 ## Compagni
 - Nessuno.
 
 ## PNG conosciuti
-- Uomo con ascia: incontrato sulla strada; nome sconosciuto.
-- Uomo con arco: incontrato sulla strada; nome sconosciuto.
+- Uomo con ascia: nome sconosciuto.
+- Uomo con arco: nome sconosciuto.
 - Locandiera del Cervo Grigio: donna sulla quarantina; nome sconosciuto.
-- Anziano cliente della locanda: nome sconosciuto.
+- Brennar: fabbro di Rovena.
+- Impiegata della Gilda: nome sconosciuto.
+- Esaminatore anziano della Gilda: nome sconosciuto.
 
 ## Relazioni importanti
 - Uomo con ascia: neutrale.
-- Uomo con arco: neutrale, diffidente nei confronti di Kaelen.
+- Uomo con arco: neutrale, inizialmente diffidente.
 - Locandiera: neutrale; ha offerto a Kaelen cibo in cambio di lavoro.
+- Brennar: neutrale; ha accettato di mettere da parte per Kaelen una falce-lancia magica dal valore di 12 monete d'argento, da acquistare in seguito.
+- Gilda degli Avventurieri: neutrale; Kaelen è ora registrato come avventuriero di grado D.
 
 ## Quest attive
-### Lavoro alla locanda
+### Recupero della cassa della Gilda
 - Stato: attiva
+- Tipo: incarico di rischio, grado D
+- Obiettivo: recuperare una cassa appartenente alla Gilda perduta durante un trasporto.
+- Luogo: vecchia strada mineraria a nord di Rovena.
+- Problema noto: la zona è abbandonata da diversi anni e sono state segnalate presenze ostili.
+- Condizione: riportare la cassa integra.
+- Ricompensa: 15 monete d'argento.
+- Restrizioni note: non è richiesto eliminare creature o esplorare la miniera; l'obiettivo dichiarato è il recupero della cassa.
+
+### Lavoro alla locanda
+- Stato: concluso per il momento
 - Obiettivo: aiutare con i lavori della locanda in cambio di vitto.
-- Progresso: Kaelen ha mangiato una ciotola di zuppa e ha iniziato a spostare i carichi dalla cantina.
+- Risultato: Kaelen ha ricevuto una ciotola di zuppa, pane e 1 moneta di rame per il lavoro svolto.
 
 ## Quest completate
 - Nessuna.
@@ -60,19 +77,30 @@
 - Strada rurale occidentale
 - Rovena, piccolo villaggio
 - Locanda del Cervo Grigio
+- Forgia di Brennar
+- Gilda degli Avventurieri di Rovena
+- Vecchia strada mineraria a nord di Rovena (solo per nome e descrizione generale)
 
 ## Fazioni conosciute
-- Nessuna.
+- Gilda degli Avventurieri
+- Esistenza di un mercato di schiavi a Rovena
 
 ## Eventi canonici
-- Il protagonista si è risvegliato prima dell'alba su una strada rurale senza sapere con certezza come sia arrivato lì.
-- Il protagonista ha scelto il nome Kaelen.
+- Kaelen si è risvegliato prima dell'alba su una strada rurale senza ricordare la propria origine.
+- Kaelen ha scelto il nome Kaelen.
 - Kaelen ha incontrato due uomini diretti verso Rovena.
-- Gli uomini gli hanno spiegato che il villaggio vicino si chiama Rovena.
 - Kaelen ha seguito i due uomini fino a Rovena.
 - Kaelen è entrato nella locanda del Cervo Grigio.
-- La locandiera gli ha offerto una ciotola di zuppa e pane in cambio di lavoro.
-- Kaelen ha mangiato e ha iniziato a spostare i carichi dalla cantina.
+- La locandiera gli ha offerto cibo in cambio di lavoro.
+- Kaelen ha svolto lavori fisici nella cantina della locanda e ha ricevuto 1 moneta di rame.
+- Kaelen ha deciso di cercare un'arma prima di andare alla Gilda.
+- Kaelen ha visitato la Forgia di Brennar e ha scelto una falce-lancia magica che può cambiare forma tra falce e lancia.
+- Brennar ha chiesto 12 monete d'argento e ha accettato di mettere l'arma da parte per Kaelen.
+- Kaelen ha visto un mercato di schiavi durante il tragitto verso la Gilda.
+- Kaelen è entrato nella Gilda degli Avventurieri.
+- Kaelen ha superato la valutazione iniziale della Gilda e ha ottenuto il grado D.
+- La valutazione ha mostrato forza sufficiente ma tecnica limitata; Kaelen ha inoltre preferito combattere a mani nude invece di usare la spada di legno.
+- Kaelen ha scelto di accettare l'incarico da 15 monete d'argento per recuperare una cassa sulla vecchia strada mineraria.
 
 ## Stato del mondo
 Il mondo è in una fase di relativa stabilità apparente. Gli eventi della storia di fondo sono già in corso, ma Kaelen ne è ancora completamente estraneo.
@@ -84,13 +112,18 @@ Il mondo è in una fase di relativa stabilità apparente. Gli eventi della stori
 - Non conosce ancora la geografia, le fazioni o le regole della magia del mondo.
 - Sa che il villaggio si chiama Rovena.
 - Sa che la locanda si chiama Il Cervo Grigio.
+- Sa che esiste una Gilda degli Avventurieri a Rovena.
+- Sa che la Gilda gli ha assegnato il grado D.
+- Sa dell'esistenza del mercato di schiavi osservato in città.
+- Sa che Brennar possiede una falce-lancia magica che ha intenzione di acquistare per 12 monete d'argento.
+- Sa che la vecchia strada mineraria a nord di Rovena è abbandonata e associata a segnalazioni di presenze ostili.
 
 ## Segreti del narratore
 - La storia di fondo è già in movimento.
-- Nessun segreto narrativo viene rivelato in questo file oltre ciò che Kaelen può sapere.
+- Nessun segreto narrativo viene rivelato oltre ciò che Kaelen può sapere.
 
 ## Ultimo evento
-Kaelen ha accettato di lavorare alla locanda in cambio di cibo e ha iniziato a spostare i carichi.
+Kaelen ha accettato l'incarico di recupero della Gilda da 15 monete d'argento.
 
 ## Ultimo checkpoint
-Dopo l'inizio del lavoro alla locanda — Giorno 1.
+Dopo l'accettazione dell'incarico della Gilda — Giorno 1.
