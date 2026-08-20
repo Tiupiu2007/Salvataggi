@@ -3,25 +3,28 @@
 > Stato operativo della campagna. Questo file rappresenta la situazione corrente e viene aggiornato dopo gli eventi significativi.
 
 ## Sessione
-- Stato: NON INIZIATA
+- Stato: IN CORSO
 - Giorno: 1
-- Ora: —
-- Luogo: —
+- Ora: poco prima dell'alba
+- Luogo: strada rurale, regione occidentale del regno
 
 ## Protagonista
-- Nome: —
-- Età: —
-- Razza: —
+- Nome: senza nome
+- Età: sconosciuta
+- Razza: umano
 - Livello: 1
-- HP: —
-- Risorse: —
-- Condizioni: nessuna
+- HP: 100/100
+- Risorse: molto limitate
+- Condizioni: stanco, affamato, nessuna ferita grave
+- Personalità: non definita; emergerà dalle azioni e dalle parole del giocatore
 
 ### Abilità
-- Nessuna ancora definita.
+- Nessuna competenza significativa formalmente acquisita.
 
 ### Inventario
-- Nessun oggetto ancora definito.
+- Abiti semplici e consumati
+- Nessuna arma affidabile
+- Pochissimi effetti personali
 
 ### Denaro
 - 0
@@ -30,13 +33,13 @@
 - Nessuno.
 
 ## PNG conosciuti
-- Nessuno.
+- Nessuno conosciuto personalmente.
 
 ## Relazioni importanti
 - Nessuna.
 
 ## Quest attive
-- Nessuna.
+Nessuna formalmente accettata.
 
 ## Quest completate
 - Nessuna.
@@ -45,25 +48,30 @@
 - Nessuna.
 
 ## Luoghi conosciuti
-- Nessuno.
+- Strada rurale occidentale
 
 ## Fazioni conosciute
 - Nessuna.
 
 ## Eventi canonici
-- La campagna non è ancora iniziata.
+- Il protagonista si è risvegliato prima dell'alba su una strada rurale senza sapere con certezza come sia arrivato lì.
+- La campagna è iniziata.
 
 ## Stato del mondo
-- Non definito.
+Il mondo è in una fase di relativa stabilità apparente. Gli eventi della storia di fondo sono già in corso, ma il protagonista ne è ancora completamente estraneo.
 
 ## Conoscenza del protagonista
-- Nessuna informazione narrativa ancora acquisita.
+- È umano.
+- Non possiede un nome che ricordi o riconosca come proprio.
+- Non ha una comprensione chiara della propria situazione.
+- Non conosce ancora la geografia, le fazioni o le regole della magia del mondo.
 
 ## Segreti del narratore
-- Nessun segreto ancora definito.
+- La storia di fondo è già in movimento.
+- Nessun segreto narrativo viene rivelato in questo file oltre ciò che il protagonista può sapere.
 
 ## Ultimo evento
-- Nessuno.
+Il protagonista si è risvegliato prima dell'alba su una strada rurale.
 
 ## Ultimo checkpoint
-- Nessuno.
+Inizio campagna — Giorno 1.
