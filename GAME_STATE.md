@@ -1,141 +1,123 @@
 # GAME STATE
 
-> Stato operativo della campagna. Questo file rappresenta la situazione corrente e viene aggiornato dopo gli eventi significativi.
+> Stato operativo della campagna. Aggiornare dopo ogni evento significativo.
 
 ## Sessione
 - Stato: IN CORSO
-- Giorno: 1
+- Giorno: 2
 - Ora: tarda mattina
-- Luogo: Gilda degli Avventurieri, Rovena
+- Luogo: vecchia cappella nella foresta, fuori Rovena
 
 ## Protagonista
 - Nome: Kaelen
 - Età: sconosciuta
 - Razza: umano
 - Livello: 1
-- Grado gilda: D
-- HP: 100/100
-- Risorse: molto limitate
-- Condizioni: stanco ma rifocillato; nessuna ferita grave
-- Personalità: non definita; emergerà dalle azioni e dalle parole del giocatore
+- Grado Gilda: D
+- Personalità: non definita; emerge dalle azioni e dalle parole del giocatore
+- Condizioni: sano; recentemente svenuto durante un tentativo di percezione magica
 
-### Abilità
-- Nessuna competenza significativa formalmente acquisita.
-- Prima esperienza pratica: trasporto di carichi pesanti.
-- Ha dimostrato di sentirsi più naturale a mani nude che con una spada.
+## Abilità e sviluppo
+- Nessuna competenza formale significativa.
+- Buona tolleranza al lavoro fisico grazie alle esperienze recenti.
+- Ha dimostrato maggiore naturalezza con i pugni che con una spada.
+- Ha iniziato un tentativo di apprendimento della magia, ma non ha ancora appreso incantesimi.
+- Ha percepito una presenza/risonanza non identificata prima di svenire.
 
-### Inventario
-- Abiti semplici e consumati
+## Inventario
+- Abiti semplici
 - Tessera della Gilda degli Avventurieri, grado D
-- Nessuna arma affidabile
-- Pochissimi effetti personali
+- Falce-lancia magica di Brennar, capace di passare da falce a lancia
+- Collare magico rimosso dalla mezzelfa; le rune principali sono spente, una runa residua/chiave può ancora reagire
 
-### Denaro
-- 16 monete di argento? No: 15 monete d'argento ricevute per l'incarico completato + 1 moneta di rame precedente.
-- Totale: 15 monete d'argento e 1 moneta di rame.
+## Denaro
+- 12 monete d'argento
+- 1 moneta di rame
 
-## Compagni
-- Nessuno.
-
-## PNG conosciuti
-- Uomo con ascia: nome sconosciuto.
-- Uomo con arco: nome sconosciuto.
-- Locandiera del Cervo Grigio: donna sulla quarantina; nome sconosciuto.
-- Brennar: fabbro di Rovena.
+## PNG importanti
+- Locandiera del Cervo Grigio: donna sulla quarantina, pratica e disponibile.
+- Brennar: fabbro di Rovena; ha venduto a Kaelen la falce-lancia per 12 argenti dopo un lavoro alla forgia.
 - Impiegata della Gilda: nome sconosciuto.
-- Esaminatore anziano della Gilda: nome sconosciuto.
-- Uomo con zappa incontrato nel bosco: nome sconosciuto; stava scavando la cassa insieme a un Veyr.
-- Veyr: creatura umanoide dall'aspetto bestiale; nome sconosciuto.
-- Funzionario della Gilda incontrato dopo la consegna della cassa: nome sconosciuto; ruolo superiore a quello della normale impiegata.
+- Funzionario della Gilda: nome sconosciuto; interessato alla cassa recuperata.
+- Arven: anziano esperto di maledizioni, vincoli e magia rituale della Gilda. Ha rimosso il collare senza ferire la mezzelfa.
+- Mezzelfa: nome ancora sconosciuto; precedentemente schiava, ferita al braccio e costretta a portare il collare. Ora libera e viva. Ha capacità magiche e ha iniziato a insegnare a Kaelen a percepire la magia.
+- Mercante di schiavi: nome sconosciuto.
+- Uomo misterioso della cappella: uomo sui quarant'anni, abiti da viaggio scuri, pugnale; conosce il simbolo della cappella e il sistema di rune del collare.
 
-## Relazioni importanti
-- Uomo con ascia: neutrale.
-- Uomo con arco: neutrale, inizialmente diffidente.
-- Locandiera: neutrale; ha offerto a Kaelen cibo in cambio di lavoro.
-- Brennar: neutrale; ha accettato di mettere da parte per Kaelen una falce-lancia magica dal valore di 12 monete d'argento.
-- Gilda degli Avventurieri: neutrale; Kaelen è registrato come avventuriero di grado D.
-- Uomo con zappa: sconosciuto; sembrava voler impedire a Kaelen di avvicinarsi alla cassa.
-- Veyr: sconosciuto; ha parlato con Kaelen e ha affermato che nella cassa c'era stato un oggetto avvolto in un panno nero.
+## Relazioni
+- Mezzelfa: rapporto inizialmente basato sulla diffidenza, ora esiste gratitudine e un legame ancora non definito. Kaelen le ha dato libertà senza chiederle di restare.
+- Arven: neutrale/positiva; ha aiutato Kaelen e la mezzelfa.
+- Brennar: neutrale/positiva.
+- Gilda: neutrale/positiva.
+- Uomo della cappella: sconosciuto; conversazione in corso.
 
-## Quest attive
+## Quest e fili narrativi
 ### Recupero della cassa della Gilda
 - Stato: COMPLETATA
-- Tipo: incarico di rischio, grado D
-- Obiettivo: recuperare una cassa appartenente alla Gilda perduta durante un trasporto.
-- Risultato: cassa recuperata e consegnata integra alla Gilda.
-- Ricompensa: 15 monete d'argento.
-- Circostanze: Kaelen ha trovato la cassa in una radura, dove un uomo e un Veyr la stavano scavando fuori da una buca. I due hanno affermato che la cassa era stata trovata durante una frana e che al suo interno c'era stato un oggetto avvolto in un panno nero, successivamente scomparso.
+- Ricompensa: 15 argenti.
+- Kaelen ha trovato la cassa mentre un uomo e un Veyr la stavano scavando fuori da una buca e l'ha consegnata alla Gilda.
 
-### Lavoro alla locanda
-- Stato: concluso per il momento
-- Obiettivo: aiutare con i lavori della locanda in cambio di vitto.
-- Risultato: Kaelen ha ricevuto una ciotola di zuppa, pane e 1 moneta di rame per il lavoro svolto.
+### Collare della mezzelfa
+- Stato: COLLARE RIMOSSO; mistero attivo
+- Arven ha separato tre componenti: soppressione, proprietà e una terza runa/chiave.
+- La terza componente non era un semplice lucchetto: sembra legata a un sistema di riconoscimento/segnalazione.
+- La mezzelfa è viva e libera.
 
-## Quest completate
-- Recupero della cassa della Gilda — ricompensa 15 argento.
-
-## Quest fallite
-- Nessuna.
+### Cappella nella foresta
+- Stato: ATTIVA
+- Kaelen ha raggiunto una vecchia cappella dopo essersi inoltrato nella foresta.
+- Dentro c'è una pietra nera con il simbolo di un cerchio attraversato da tre linee verticali.
+- Il simbolo è collegato, secondo l'uomo presente nella cappella, allo stesso sistema runico del collare.
+- La pietra sembra essere un ricevitore per il segnale della runa del collare.
+- Un uomo misterioso si trovava già nella cappella e ha riconosciuto il collare.
+- Ultima situazione: l'uomo ha sentito un rumore nella foresta e ha detto che forse non sono più soli.
 
 ## Luoghi conosciuti
-- Strada rurale occidentale
-- Rovena, piccolo villaggio
+- Rovena
 - Locanda del Cervo Grigio
 - Forgia di Brennar
-- Gilda degli Avventurieri di Rovena
-- Vecchia strada mineraria a nord di Rovena
-- Radura nel bosco lungo una deviazione dalla strada mineraria
+- Gilda degli Avventurieri
+- Vecchia strada mineraria
+- Radura nel bosco
+- Foresta fuori Rovena
+- Vecchia cappella nella foresta
 
 ## Fazioni conosciute
 - Gilda degli Avventurieri
-- Esistenza di un mercato di schiavi a Rovena
+- Mercato di schiavi di Rovena
+- Ordine antico associato al simbolo della cappella (nome sconosciuto)
 
-## Eventi canonici
-- Kaelen si è risvegliato prima dell'alba su una strada rurale senza ricordare la propria origine.
-- Kaelen ha scelto il nome Kaelen.
-- Kaelen ha incontrato due uomini diretti verso Rovena.
-- Kaelen ha seguito i due uomini fino a Rovena.
-- Kaelen è entrato nella locanda del Cervo Grigio.
-- La locandiera gli ha offerto cibo in cambio di lavoro.
-- Kaelen ha svolto lavori fisici nella cantina della locanda e ha ricevuto 1 moneta di rame.
-- Kaelen ha visitato la Forgia di Brennar e ha scelto una falce-lancia magica che può cambiare forma tra falce e lancia. Brennar ha chiesto 12 monete d'argento e l'ha messa da parte.
-- Kaelen ha visto un mercato di schiavi durante il tragitto verso la Gilda.
-- Kaelen ha superato la valutazione iniziale della Gilda e ha ottenuto il grado D.
-- Kaelen ha accettato l'incarico da 15 monete d'argento per recuperare una cassa sulla vecchia strada mineraria.
-- Durante il viaggio Kaelen ha scelto di investigare delle impronte invece di seguire immediatamente la strada principale.
-- Kaelen ha incontrato un uomo con una zappa e un Veyr in una radura.
-- Kaelen ha identificato la cassa come appartenente alla Gilda grazie al simbolo inciso sul legno.
-- Kaelen ha preso la cassa ignorando le obiezioni dei due sconosciuti.
-- Kaelen ha riportato la cassa alla Gilda e ha ricevuto 15 monete d'argento.
-- Un funzionario della Gilda ha mostrato sorpresa per la rapidità del recupero e ha chiesto a Kaelen chi gli avesse indicato dove trovare la cassa.
-- Kaelen ha spiegato che l'ha trovata mentre due sconosciuti la stavano scavando fuori da una buca.
-
-## Stato del mondo
-Il mondo è in una fase di relativa stabilità apparente. Gli eventi della storia di fondo sono già in corso, ma Kaelen ne è ancora completamente estraneo.
+## Eventi canonici recenti
+- Kaelen ha comprato la mezzelfa dal mercante per 6 argenti.
+- Ha pagato altri 2 argenti alla locandiera per cura, cibo e vestiti puliti.
+- Ha lavorato alla forgia per ottenere i 5 argenti mancanti e acquistare la falce-lancia.
+- Ha notato le rune del collare e ha tentato di spezzarlo con la falce-lancia, danneggiandone il vincolo senza ferire la mezzelfa.
+- Ha chiesto alla mezzelfa se sapesse usare la magia. Lei ha confermato e ha iniziato a insegnargli a percepirla.
+- Kaelen ha percepito un tocco/risonanza piacevole che non sembrava magia e in seguito è svenuto.
+- Il mattino seguente la mezzelfa ha spiegato che durante lo svenimento il suo corpo aveva emesso una luce e che il suo collare aveva reagito.
+- Kaelen ha portato la mezzelfa alla Gilda senza passare vicino al mercante.
+- Arven ha esaminato e rimosso il collare. La mezzelfa ha recuperato l'accesso alla propria magia.
+- Kaelen le ha detto che era libera di andare. Lei se n'è andata volontariamente, ringraziandolo.
+- Kaelen è rimasto deluso ma ha ritenuto di non aver compiuto la scelta sbagliata.
+- Kaelen ha preso il collare e si è diretto nella foresta.
+- Nella cappella ha incontrato un uomo che conosce il simbolo e il sistema runico.
+- L'uomo ha spiegato che il segnale della runa può riconoscere una persona specifica e che la pietra della cappella può ricevere il segnale.
+- Kaelen ha rivelato soltanto che la persona che indossava il collare è viva.
+- Un rumore proveniente dalla foresta ha interrotto la conversazione.
 
 ## Conoscenza di Kaelen
-- È umano.
-- Ha scelto di chiamarsi Kaelen.
-- Non conosce la propria origine.
-- Non conosce ancora la geografia, le fazioni o le regole della magia del mondo.
-- Sa che il villaggio si chiama Rovena.
-- Sa che la locanda si chiama Il Cervo Grigio.
-- Sa che esiste una Gilda degli Avventurieri a Rovena.
-- Sa che la Gilda gli ha assegnato il grado D.
-- Sa dell'esistenza del mercato di schiavi osservato in città.
-- Sa che Brennar possiede una falce-lancia magica che ha intenzione di acquistare per 12 monete d'argento.
-- Sa che la vecchia strada mineraria a nord di Rovena è abbandonata e associata a segnalazioni di presenze ostili.
-- Sa che un uomo e un Veyr stavano scavando la cassa fuori da una buca.
-- Sa che il Veyr ha affermato che nella cassa c'era un oggetto avvolto in un panno nero e che l'oggetto non era più presente.
-- Sa che un funzionario della Gilda è interessato a sapere come la cassa sia stata trovata.
+- La mezzelfa è viva e libera.
+- Il collare non è più al suo collo.
+- Arven ha detto che la terza runa era una chiave; l'uomo della cappella la descrive come un segnale/rilevatore.
+- La pietra della cappella sembra ricevere quel segnale.
+- Il simbolo della cappella appartiene, secondo l'uomo, a un antico ordine non religioso.
+- Non conosce ancora il nome dell'ordine, il significato completo del segnale o chi lo abbia creato.
+- Non conosce l'identità dell'uomo nella cappella.
 
 ## Segreti del narratore
-- La storia di fondo è già in movimento.
-- Il contenuto originale della cassa e la sorte dell'oggetto avvolto nel panno nero non sono stati rivelati a Kaelen.
-- Nessun altro segreto narrativo viene rivelato oltre ciò che Kaelen può sapere.
-
-## Ultimo evento
-Kaelen ha riferito al funzionario della Gilda di aver trovato la cassa mentre due sconosciuti la stavano scavando fuori da una buca.
+- Non rivelare automaticamente il significato completo del sistema del collare.
+- La storia di fondo continua a evolversi indipendentemente dalle azioni di Kaelen.
+- L'identità dell'uomo della cappella, l'ordine del simbolo e il motivo per cui la pietra riceve il segnale sono ancora segreti narrativi.
 
 ## Ultimo checkpoint
-Dopo la consegna della cassa e la prima domanda del funzionario della Gilda — Giorno 1.
+Kaelen è nella vecchia cappella nella foresta. Ha il collare con sé. Un uomo misterioso è presente. Un rumore proveniente dalla foresta suggerisce che potrebbe esserci qualcun altro nelle vicinanze.
