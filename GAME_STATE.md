@@ -6,10 +6,10 @@
 - Stato: IN CORSO
 - Giorno: 1
 - Ora: poco prima dell'alba
-- Luogo: strada rurale, regione occidentale del regno
+- Luogo: strada rurale, a sud di Rovena
 
 ## Protagonista
-- Nome: senza nome
+- Nome: Kaelen
 - Età: sconosciuta
 - Razza: umano
 - Livello: 1
@@ -33,10 +33,12 @@
 - Nessuno.
 
 ## PNG conosciuti
-- Nessuno conosciuto personalmente.
+- Uomo con ascia: incontrato sulla strada; nome sconosciuto.
+- Uomo con arco: incontrato sulla strada; nome sconosciuto.
 
 ## Relazioni importanti
-- Nessuna.
+- Uomo con ascia: neutrale, prima impressione non definita.
+- Uomo con arco: neutrale, diffidente nei confronti di Kaelen.
 
 ## Quest attive
 Nessuna formalmente accettata.
@@ -49,29 +51,33 @@ Nessuna formalmente accettata.
 
 ## Luoghi conosciuti
 - Strada rurale occidentale
+- Rovena, piccolo villaggio
 
 ## Fazioni conosciute
 - Nessuna.
 
 ## Eventi canonici
 - Il protagonista si è risvegliato prima dell'alba su una strada rurale senza sapere con certezza come sia arrivato lì.
-- La campagna è iniziata.
+- Il protagonista ha scelto il nome Kaelen.
+- Kaelen ha incontrato due uomini diretti verso Rovena.
+- Gli uomini gli hanno spiegato che il villaggio vicino si chiama Rovena.
 
 ## Stato del mondo
-Il mondo è in una fase di relativa stabilità apparente. Gli eventi della storia di fondo sono già in corso, ma il protagonista ne è ancora completamente estraneo.
+Il mondo è in una fase di relativa stabilità apparente. Gli eventi della storia di fondo sono già in corso, ma Kaelen ne è ancora completamente estraneo.
 
-## Conoscenza del protagonista
+## Conoscenza di Kaelen
 - È umano.
-- Non possiede un nome che ricordi o riconosca come proprio.
-- Non ha una comprensione chiara della propria situazione.
+- Ha scelto di chiamarsi Kaelen.
+- Non conosce la propria origine.
 - Non conosce ancora la geografia, le fazioni o le regole della magia del mondo.
+- Sa che il villaggio davanti a lui si chiama Rovena.
 
 ## Segreti del narratore
 - La storia di fondo è già in movimento.
-- Nessun segreto narrativo viene rivelato in questo file oltre ciò che il protagonista può sapere.
+- Nessun segreto narrativo viene rivelato in questo file oltre ciò che Kaelen può sapere.
 
 ## Ultimo evento
-Il protagonista si è risvegliato prima dell'alba su una strada rurale.
+Kaelen ha dichiarato agli uomini sulla strada: «Mi chiamo Kaelen.»
 
 ## Ultimo checkpoint
-Inizio campagna — Giorno 1.
+Dopo l'incontro sulla strada — Giorno 1.
