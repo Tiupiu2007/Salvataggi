@@ -4,8 +4,8 @@
 
 ## Sessione
 - Stato: IN CORSO
-- Luogo: Valdora, Gilda degli Avventurieri
-- Giorno: 4
+- Luogo: Valdora, quartiere dei gioiellieri / in rientro verso la Gilda
+- Giorno: circa 6 del mese a Valdora
 
 ## Protagonista
 - Nome: Kaelen
@@ -13,101 +13,100 @@
 - Razza: umano
 - Livello: 1
 - Grado Gilda: D
-- Condizioni: appena risvegliato dopo un enorme esaurimento magico; forte mal di testa, ma cosciente
+- Condizioni: completamente recuperato dall'esaurimento magico
 - Origini: non ricorda il proprio passato e sospetta che anche Kaelen possa essere un nome falso, ma gli piace
 
 ## Abilità e magia
 - Ha iniziato ad apprendere la magia da Lyris.
 - Riesce a percepire la magia di Lyris senza catalizzatore.
-- Ha percepito un vuoto anomalo, distinto dalla magia normale.
 - Il vuoto e una luce opposta si sono fusi in un'unica presenza.
 - Un sigillo mentale si è sbloccato dopo aver capito di essere stato inspiegabilmente attirato da Lyris già al primo incontro.
-- Kaelen ha visto una figura identica a sé, avvolta da una luce che sembrava contenere tutto; fondendosi con essa ha recuperato frammenti di vecchi ricordi.
-- La luce e il vuoto ora coesistono come un tutt'uno.
+- Kaelen ha recuperato frammenti di vecchi ricordi legati a Lyris.
 - Ha evocato istintivamente un fulmine viola immenso, mettendo fuori combattimento due uomini e consumando completamente le proprie forze.
-- Ha iniziato a controllare volontariamente piccole quantità di magia.
-- Ha creato un'enorme sfera di fuoco comprimendo tutta la magia disponibile e l'ha scagliata contro la creatura nella miniera; l'attacco ha devastato la camera sotterranea e Kaelen è svenuto per l'esaurimento.
+- Ha creato un'enorme sfera di fuoco comprimendo tutta la magia disponibile e l'ha scagliata contro la creatura nella miniera; l'attacco ha devastato la camera sotterranea e Kaelen è svenuto.
+- La luce e il vuoto ora coesistono come un tutt'uno.
 
-## Equipaggiamento
+## Equipaggiamento e oggetti importanti
 - Abiti semplici
 - Tessera della Gilda degli Avventurieri, grado D
-- Falce-lancia potenziata da Brennar: asta rinforzata, meccanismo migliorato e migliore resistenza all'energia magica
-- Arco ricurvo: regalato a Lyris, quindi NON di Kaelen
-- Faretra e 20 frecce: regalate a Lyris, quindi NON di Kaelen
+- Falce-lancia potenziata da Brennar
 - Provviste di viaggio
-- 3 chiavi dei collari: utilizzate per liberare i tre ex schiavi
 - Medaglione con simbolo identico a quello degli uomini che avevano inseguito Lyris
-- Borsa trovata nella carrozza rovesciata: contiene mappa, gettone nero e lettera sigillata con variante del simbolo; portata con il gruppo
+- Borsa trovata nella carrozza rovesciata: contiene mappa, gettone nero e lettera sigillata con variante del simbolo
 - Cristalli viola recuperati dalla miniera
+- **Excalibur**, trovata conficcata in una roccia vicino alla Pietra del Re; Kaelen l'ha estratta senza difficoltà e intende venderla
+- **Pietra del Fuoco Eterno**, trovata all'interno della Pietra del Re; trasportabile e ancora in possesso di Kaelen
+- **Ciondolo del Mana Infinito**, manufatto recuperato per una missione di grado C
+- 14 collane commissionate per le ragazze del gruppo; 2 realizzate con materiali magici più importanti e altre 12 personalizzate con pietre colorate raccolte da Kaelen
 
 ## Denaro
-- 17 monete d'oro ricevute dalla Gilda dopo le missioni completate
-- Nessun pagamento richiesto per le missioni non completate
+- Saldo stimato attuale: **202 monete d'oro**, prima del pagamento delle 12 collane aggiuntive
+- Ricompense recenti: 80 oro per la missione del wyvern di grado B; 135 oro per le missioni C/B completate
+- Per le prime missioni di Valdora Kaelen aveva ricevuto 17 oro complessivi.
 - In precedenza Kaelen aveva speso 15 oro da Brennar, 20 oro regalate a Lyris, 1 oro alla locandiera e 25 argento per acquistare i tre schiavi.
-- I tre ex schiavi hanno ricevuto 1 moneta d'oro ciascuno per procurarsi equipaggiamento e necessità durante il mese a Valdora.
+- Il gioielliere ha ricevuto 135 oro per due collane e ha restituito 105 oro dopo aver trattenuto 30 oro per il lavoro.
+- Le 12 collane aggiuntive sono state concordate a 6 oro ciascuna (72 oro totali), ma il pagamento non è ancora stato registrato.
 
 ## PNG importanti
-- Lyris: mezzelfa, 24 anni, ex schiava, libera; sa usare la magia senza catalizzatore e ha iniziato a insegnare a Kaelen. Ha ricevuto in regalo arco, faretra e 20 frecce, oltre a 20 monete d'oro.
-- Mara: conoscente di Lyris a Eldermere.
-- Arven: anziano esperto di maledizioni, vincoli e magia rituale della Gilda; custodisce il collare di Lyris.
-- Brennar: fabbro di Rovena; ha potenziato la falce-lancia di Kaelen.
-- Edran: evocatore di rango C; ha creato con Kaelen un vincolo volontario con il lupo capo del branco. Il vincolo permette a Kaelen di richiamarlo, ma non di controllarlo.
-- Donna misteriosa della miniera: era incatenata in una caverna antica; Kaelen l'ha liberata. Conosce o sospetta informazioni su luce, vuoto e passato di Kaelen, ma Kaelen ignora deliberatamente i suoi discorsi e la donna ha accettato di accompagnarlo alla Gilda.
-- Locandiera del Cervo Grigio: donna sulla quarantina, pratica e disponibile.
-- Mercante di schiavi: nome sconosciuto; Kaelen gli aveva detto che Lyris era morta.
+- **Lyris**: mezzelfa, 24 anni, ex schiava, libera; sa usare la magia senza catalizzatore e ha iniziato a insegnare a Kaelen. Ha ricevuto arco, faretra, 20 frecce e 20 oro da Kaelen.
+- **Nyra**: il precedente lupo capo del branco; possiede una forma umanoide beastfolk. È entrata nel gruppo e mantiene il legame con il branco.
+- **Veyra**: viverna speciale con forma umanoide; incontrata durante la missione di grado B del wyvern antico. Kaelen le ha offerto di unirsi al gruppo e lei ha accettato. Attualmente era stata incaricata di portare il vicecapogilda nelle Terre Bruciate dopo un equivoco sulla missione.
+- **Syrra**: viverna di grado C, più piccola delle altre (circa 1,65 m in forma umanoide). Ha accettato di unirsi al gruppo. È stata incaricata di trovare il vero mercante e portarlo nelle Terre Bruciate, possibilmente recuperando anche Veyra.
+- **Donna misteriosa della miniera**: era incatenata in una caverna antica; Kaelen l'ha liberata. Conosce o sospetta informazioni su luce, vuoto e passato di Kaelen, ma Kaelen ignora deliberatamente i suoi discorsi.
+- **Edran**: evocatore di rango C; ha creato con Kaelen un vincolo volontario con il lupo capo del branco.
+- **Brennar**: fabbro di Rovena; ha potenziato la falce-lancia di Kaelen.
+- **Vicecapogilda**: coinvolto nell'equivoco della missione di scorta; Veyra lo ha portato verso le Terre Bruciate al posto del mercante.
+- **Gioielliere di Valdora**: ha realizzato le prime due collane e sta lavorando sulle altre dodici.
 
-## Gruppo
-- Lyris
-- Tre ex schiavi liberati: ragazzo umano di 19 anni, elfa di 62 anni (apparenza circa 27), uomo umano di 32 anni
-- L'elfa conosce magia naturale e arco; il ragazzo ha esperienza da apprendista fabbro; l'uomo era guardia di convogli e sa usare spada e scudo.
-- I tre hanno ricevuto denaro per procurarsi equipaggiamento e stanno cercando di prepararsi durante il mese a Valdora.
-- Lupo capo del branco: legame volontario con Kaelen; può essere richiamato e può guidare il branco.
-- Branco di lupi: incontrato durante la missione di caccia; Kaelen ha scelto di non ucciderli e il branco lo ha aiutato a trovare le erbe medicinali.
-
-## Relazioni
-- Lyris: rapporto molto stretto e in crescita. Kaelen l'ha liberata e ha scelto di seguirla. Tra loro esiste un legame antico ancora non spiegato.
-- Tre ex schiavi: rapporto positivo e fiducioso; ora sono liberi.
-- Edran: rapporto positivo.
-- Brennar: rapporto positivo.
+## Gruppo attuale
+- **18 persone totali**:
+  - Kaelen
+  - Lyris
+  - 3 ex schiavi liberati (ragazzo umano di 19 anni, elfa di 62 anni dall'apparenza circa 27, uomo umano di 32 anni)
+  - Donna misteriosa della miniera
+  - 10 ragazze liberate dal dungeon
+  - Nyra
+  - Veyra
+  - Syrra
+- Le 10 ragazze liberate dal dungeon non avevano più un posto dove andare e hanno accettato di unirsi al gruppo.
+- Il gruppo è diventato troppo numeroso per le piccole navi viste inizialmente alla Gilda.
+- Obiettivo nave: cercare una nave volante abbastanza grande per almeno 18 persone, idealmente 20+ posti e molte cabine.
 
 ## Missioni di Valdora
-Kaelen aveva accettato quattro missioni di rango D tranne la scorta commerciale:
-- Caccia ai lupi — completata senza uccidere il branco; il branco ha aiutato Kaelen a trovare le erbe.
-- Erbe medicinali — 15/15 raccolte; completata.
-- Disinfestazione della vecchia miniera — completata; Kaelen ha eliminato la colonia di goblin, abbattuto una creatura molto grande, recuperato cristalli viola e liberato le prigioniere.
-- Esplorazione delle rovine — ancora aperta.
-- Scorta commerciale — rifiutata.
-- La Gilda ha riconosciuto le prime tre come completate e ha consegnato 17 monete d'oro complessive, oltre ai materiali.
+### Grado D
+- Erbe lunari — completata
+- Cassa perduta — completata
+- Bestia nel granaio — completata
+- Cristalli per un mago — completata
+- Ragazzo scomparso — completata
+- Predoni della strada — completata; i cinque predoni sono stati sconfitti senza ucciderli, legati e consegnati
 
-## Miniera
-- Kaelen ha incontrato una colonia di goblin e li ha combattuti.
-- Ha affrontato e ucciso una creatura enorme che colpiva un macchinario minerario con un martello.
-- Ha trovato quattro ragazze prigioniere in una stanza e successivamente altre prigioniere nelle gallerie inferiori; sono state liberate e affidate alla Gilda.
-- Ha trovato una donna misteriosa incatenata in una caverna antica e l'ha liberata.
-- La donna ha parlato di luce e vuoto e ha affermato che Kaelen porta entrambe le energie; Kaelen non vuole ascoltare questi discorsi.
-- Dopo la liberazione della donna, qualcosa nella profondità della miniera si è risvegliato.
-- Kaelen ha concentrato tutta la magia in una sfera di fuoco estremamente potente e l'ha scagliata contro la minaccia, poi è svenuto.
-- È stato riportato alla Gilda di Valdora.
+### Grado C
+- Caccia alla viverna — risolta narrativamente tramite Syrra che si è unita al gruppo; da regolarizzare con la Gilda
+- Scorta nelle Terre Bruciate — non ancora completata correttamente: Veyra ha portato per errore il vicecapogilda invece del mercante; Syrra sta cercando il vero mercante e potrebbe recuperare Veyra
+- Recupero del Manufatto/Ciondolo del Mana Infinito — completata; manufatto recuperato e consegnato alla Gilda, ricompensa 25 oro
 
-## Taglia su Lyris
-- Tre uomini hanno inseguito Kaelen e Lyris a Eldermere.
-- Uno è stato ucciso da Kaelen; gli altri due sono stati catturati e consegnati ai soldati di Rovena.
-- Ricompensa totale ricevuta: 40 monete d'oro.
-- La taglia era su Lyris, ma i due non conoscevano il mandante.
-- Gli ordini arrivavano tramite messaggi lasciati sempre nello stesso luogo.
+### Grado B
+- Caccia al wyvern antico — risolta con Veyra che ha rivelato la propria natura e si è unita al gruppo; ricompensa di 80 oro già ricevuta
+- Recupero della Pietra del Re — completata; Kaelen ha trovato la Pietra del Re nella Fortezza di Nerath, l'ha frantumata perché troppo grande da trasportare e all'interno ha trovato la Pietra del Fuoco Eterno. La missione è stata riconosciuta come completata e la ricompensa di 100 oro è stata ricevuta.
 
-## Legame Kaelen-Lyris e misteri
-- Il collare di Lyris è stato rimosso e custodito/sigillato da Arven.
-- Il sistema runico della vecchia cappella nella foresta sembra collegato al collare.
-- Kaelen ha sbloccato un sigillo mentale e recuperato frammenti di memoria legati a una Lyris molto più giovane.
-- La natura della luce, del vuoto e del legame tra Kaelen e Lyris resta volutamente non spiegata.
+## Eventi recenti
+- Kaelen ha incontrato Veyra durante la missione del wyvern e ha scelto di non combatterla. Veyra possiede una forma umanoide e si è unita al gruppo.
+- Veyra ha indicato a Kaelen un cristallo blu-violaceo trovato sulle montagne; Kaelen ha deciso di farne una collana per lei.
+- Kaelen ha trovato Excalibur conficcata nella stessa zona e l'ha estratta per poterla vendere, non essendo interessato a usare spade.
+- Kaelen ha trovato la Pietra del Re e la Pietra del Fuoco Eterno nella Fortezza di Nerath.
+- Kaelen ha usato un metal detector comprato per 2 rame per individuare il manufatto della missione C; il detector ha inizialmente trovato anche un cucchiaio metallico.
+- Kaelen ha commissionato al gioielliere due collane, poi ha ordinato altre dodici collane tutte diverse usando pietre colorate raccolte nei due giorni di riposo.
+- Le collane sono destinate alle ragazze del gruppo; il numero di ragazze è attualmente 14 contando Lyris, la donna misteriosa, Veyra e Syrra oltre alle 10 liberate dal dungeon.
+- Kaelen ha dormito due giorni mentre il gioielliere completava le prime due collane.
 
 ## Nave volante
-- Kaelen ha sentito alla Gilda che a Valdora vengono vendute navi volanti alimentate da pietre magiche e dotate di comfort per viverci.
-- Obiettivo del gruppo: trascorrere circa un mese a Valdora, imparare e migliorare le proprie capacità, procurarsi equipaggiamento decente e poi cercare di acquistare o trovare una nave volante.
+- Inizialmente erano state mostrate tre navi: Vento Errante (42 oro, troppo piccola), Aurora (75 oro, circa 7-8 persone) e Leviatano (130 oro, circa 12+ persone).
+- Con 18 persone nel gruppo, nessuna delle tre è più adatta.
+- Obiettivo: trovare una nave più grande, possibilmente da 20+ persone, con cabine sufficienti, cucina, bagni, sala comune e spazio di stivaggio.
 
-## Ultimo checkpoint
-Kaelen si è appena risvegliato nella Gilda degli Avventurieri di Valdora dopo essere svenuto nella miniera a causa dell'enorme sfera di fuoco. Ha forte mal di testa. Lyris è al suo fianco; il lupo è ai piedi del letto; la donna liberata dalla miniera è presente; i tre ex schiavi sono nella sala comune della Gilda e stanno bene; le prigioniere liberate sono state affidate alla Gilda. Edran è nella sala di pratica. La falce-lancia è con Kaelen. Kaelen ha ricevuto 17 monete d'oro come ricompensa per le tre missioni completate. La missione delle rovine resta aperta.
+## Situazione attuale
+Kaelen ha appena lasciato il gioielliere dopo aver ordinato le collane aggiuntive. Deve tornare alla Gilda, dove sono attesi aggiornamenti su Veyra, Syrra e il mercante delle Terre Bruciate. Excalibur e la Pietra del Fuoco Eterno sono ancora con Kaelen. Il Ciondolo del Mana Infinito è stato consegnato alla Gilda.
 
 ## Segreti del narratore
 - Non rivelare automaticamente il significato completo del sistema del collare.
