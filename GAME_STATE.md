@@ -4,7 +4,7 @@
 
 ## Sessione
 - Stato: IN CORSO
-- Luogo: Valdora, quartiere dei gioiellieri / in rientro verso la Gilda
+- Luogo: Nave volante Imperius, camera di Kaelen
 - Giorno: circa 6 del mese a Valdora
 
 ## Protagonista
@@ -36,27 +36,28 @@
 - Cristalli viola recuperati dalla miniera
 - **Excalibur**, trovata conficcata in una roccia vicino alla Pietra del Re; Kaelen l'ha estratta senza difficoltà e intende venderla
 - **Pietra del Fuoco Eterno**, trovata all'interno della Pietra del Re; trasportabile e ancora in possesso di Kaelen
-- **Ciondolo del Mana Infinito**, manufatto recuperato per una missione di grado C
-- 14 collane commissionate per le ragazze del gruppo; 2 realizzate con materiali magici più importanti e altre 12 personalizzate con pietre colorate raccolte da Kaelen
+- **Ciondolo del Mana Infinito**, manufatto recuperato per una missione di grado C e consegnato alla Gilda
+- **16 collane**: una per ciascuna ragazza del gruppo; realizzate con pietre colorate raccolte da Kaelen, tutte diverse
+- **2 bracciali di spago**: regalati ai due uomini del gruppo oltre a Kaelen
+- **Nave volante Imperius**, ottenuta dando Excalibur al precedente proprietario; il proprietario non riusciva a sollevare Excalibur e ha abbandonato la nave, restituendo la spada a Kaelen
+- **Chiave nera misteriosa**, consegnata da un anziano su una piattaforma volante; non è ancora stato scoperto cosa apra
 
 ## Denaro
-- Saldo stimato attuale: **202 monete d'oro**, prima del pagamento delle 12 collane aggiuntive
-- Ricompense recenti: 80 oro per la missione del wyvern di grado B; 135 oro per le missioni C/B completate
-- Per le prime missioni di Valdora Kaelen aveva ricevuto 17 oro complessivi.
-- In precedenza Kaelen aveva speso 15 oro da Brennar, 20 oro regalate a Lyris, 1 oro alla locandiera e 25 argento per acquistare i tre schiavi.
-- Il gioielliere ha ricevuto 135 oro per due collane e ha restituito 105 oro dopo aver trattenuto 30 oro per il lavoro.
-- Le 12 collane aggiuntive sono state concordate a 6 oro ciascuna (72 oro totali), ma il pagamento non è ancora stato registrato.
+- **172 monete d'oro** nel fondo comune del gruppo, dopo aver conteggiato i guadagni di tutti
+- Il gruppo ha deciso di puntare alla nave Imperius, dal valore dichiarato di 10.000.000 oro, ma l'ha ottenuta senza spendere il fondo comune grazie allo scambio con Excalibur
+- Il gioielliere ha ricevuto 30 oro per il primo lavoro; le altre 12 collane sono state realizzate usando pietre trovate da Kaelen e il pagamento complessivo concordato era 72 oro; il conteggio finale del fondo comune è stato comunque fissato dal gruppo a 172 oro
 
 ## PNG importanti
 - **Lyris**: mezzelfa, 24 anni, ex schiava, libera; sa usare la magia senza catalizzatore e ha iniziato a insegnare a Kaelen. Ha ricevuto arco, faretra, 20 frecce e 20 oro da Kaelen.
-- **Nyra**: il precedente lupo capo del branco; possiede una forma umanoide beastfolk. È entrata nel gruppo e mantiene il legame con il branco.
-- **Veyra**: viverna speciale con forma umanoide; incontrata durante la missione di grado B del wyvern antico. Kaelen le ha offerto di unirsi al gruppo e lei ha accettato. Attualmente era stata incaricata di portare il vicecapogilda nelle Terre Bruciate dopo un equivoco sulla missione.
-- **Syrra**: viverna di grado C, più piccola delle altre (circa 1,65 m in forma umanoide). Ha accettato di unirsi al gruppo. È stata incaricata di trovare il vero mercante e portarlo nelle Terre Bruciate, possibilmente recuperando anche Veyra.
+- **Nyra**: precedente lupo capo del branco; possiede una forma umanoide beastfolk. È entrata nel gruppo e mantiene il legame con il branco.
+- **Veyra**: viverna speciale con forma umanoide; ha accettato di unirsi al gruppo. Ha 27 anni ed è alta circa 1,65 m in forma umanoide. Kaelen e Veyra hanno iniziato una relazione romantica.
+- **Syrra**: viverna di grado C, più piccola delle altre (circa 1,65 m in forma umanoide). Ha accettato di unirsi al gruppo.
 - **Donna misteriosa della miniera**: era incatenata in una caverna antica; Kaelen l'ha liberata. Conosce o sospetta informazioni su luce, vuoto e passato di Kaelen, ma Kaelen ignora deliberatamente i suoi discorsi.
 - **Edran**: evocatore di rango C; ha creato con Kaelen un vincolo volontario con il lupo capo del branco.
 - **Brennar**: fabbro di Rovena; ha potenziato la falce-lancia di Kaelen.
 - **Vicecapogilda**: coinvolto nell'equivoco della missione di scorta; Veyra lo ha portato verso le Terre Bruciate al posto del mercante.
-- **Gioielliere di Valdora**: ha realizzato le prime due collane e sta lavorando sulle altre dodici.
+- **Gioielliere di Valdora**: ha realizzato le collane del gruppo.
+- **Pip**: piccolo umanoide trovato incastrato nei condotti dello scarico magico della nave; Kaelen e Syrra lo hanno tirato fuori con una corda. È stato mandato da Kaelen dalle ragazze del gruppo che non stavano facendo nulla.
 
 ## Gruppo attuale
 - **18 persone totali**:
@@ -68,9 +69,7 @@
   - Nyra
   - Veyra
   - Syrra
-- Le 10 ragazze liberate dal dungeon non avevano più un posto dove andare e hanno accettato di unirsi al gruppo.
-- Il gruppo è diventato troppo numeroso per le piccole navi viste inizialmente alla Gilda.
-- Obiettivo nave: cercare una nave volante abbastanza grande per almeno 18 persone, idealmente 20+ posti e molte cabine.
+- Il gruppo ha ora la nave Imperius, abbastanza grande per ospitare tutti.
 
 ## Missioni di Valdora
 ### Grado D
@@ -83,7 +82,7 @@
 
 ### Grado C
 - Caccia alla viverna — risolta narrativamente tramite Syrra che si è unita al gruppo; da regolarizzare con la Gilda
-- Scorta nelle Terre Bruciate — non ancora completata correttamente: Veyra ha portato per errore il vicecapogilda invece del mercante; Syrra sta cercando il vero mercante e potrebbe recuperare Veyra
+- Scorta nelle Terre Bruciate — ancora da verificare/completare correttamente: Veyra aveva portato per errore il vicecapogilda invece del mercante; Syrra doveva cercare il vero mercante
 - Recupero del Manufatto/Ciondolo del Mana Infinito — completata; manufatto recuperato e consegnato alla Gilda, ricompensa 25 oro
 
 ### Grado B
@@ -92,21 +91,29 @@
 
 ## Eventi recenti
 - Kaelen ha incontrato Veyra durante la missione del wyvern e ha scelto di non combatterla. Veyra possiede una forma umanoide e si è unita al gruppo.
-- Veyra ha indicato a Kaelen un cristallo blu-violaceo trovato sulle montagne; Kaelen ha deciso di farne una collana per lei.
-- Kaelen ha trovato Excalibur conficcata nella stessa zona e l'ha estratta per poterla vendere, non essendo interessato a usare spade.
+- Kaelen ha trovato Excalibur e successivamente l'ha usata come pagamento per ottenere la nave Imperius; il precedente proprietario non riusciva a sollevarla, ha abbandonato la nave e ha restituito Excalibur a Kaelen.
 - Kaelen ha trovato la Pietra del Re e la Pietra del Fuoco Eterno nella Fortezza di Nerath.
 - Kaelen ha usato un metal detector comprato per 2 rame per individuare il manufatto della missione C; il detector ha inizialmente trovato anche un cucchiaio metallico.
-- Kaelen ha commissionato al gioielliere due collane, poi ha ordinato altre dodici collane tutte diverse usando pietre colorate raccolte nei due giorni di riposo.
-- Le collane sono destinate alle ragazze del gruppo; il numero di ragazze è attualmente 14 contando Lyris, la donna misteriosa, Veyra e Syrra oltre alle 10 liberate dal dungeon.
-- Kaelen ha dormito due giorni mentre il gioielliere completava le prime due collane.
+- Kaelen ha commissionato le collane e poi le ha distribuite alle ragazze del gruppo.
+- Kaelen ha dato due bracciali fatti con spago ai due uomini del gruppo oltre a sé.
+- Il gruppo ha fatto il punto sui soldi e ha stabilito di avere **172 oro** complessivi.
+- Kaelen ha presentato l'obiettivo assurdo di una nave da 10.000.000 oro; poco dopo ha rivelato di aver già ottenuto la nave Imperius tramite Excalibur.
+- Kaelen ha trovato Pip nei condotti dello scarico magico del bagno della nave e lo ha fatto uscire con una corda.
+- Kaelen ha avuto un appuntamento romantico con Veyra sulla nave: cena gourmet cucinata usando la Pietra del Fuoco Eterno, vino, conversazione sul ponte e sulle vele, bacio e momento romantico privato.
+- Kaelen e Veyra hanno deciso di dormire insieme dopo la serata, mantenendo il momento intimo e privato.
 
-## Nave volante
-- Inizialmente erano state mostrate tre navi: Vento Errante (42 oro, troppo piccola), Aurora (75 oro, circa 7-8 persone) e Leviatano (130 oro, circa 12+ persone).
-- Con 18 persone nel gruppo, nessuna delle tre è più adatta.
-- Obiettivo: trovare una nave più grande, possibilmente da 20+ persone, con cabine sufficienti, cucina, bagni, sala comune e spazio di stivaggio.
+## Nave volante Imperius
+- Nome: Imperius
+- Valore dichiarato: **10.000.000 monete d'oro**
+- Ottenuta tramite lo scambio con Excalibur; Excalibur è stata poi restituita a Kaelen
+- Ha abbastanza spazio per il gruppo di 18 persone e dispone di molte stanze.
+- Kaelen possiede le chiavi delle stanze e ha lasciato scegliere liberamente le camere al gruppo.
+- Lyris ha scelto la propria stanza.
+- Kaelen ha trovato la propria stanza occupata temporaneamente dalla ragazza che parla continuamente di magia; l'ha mandata fuori e ha buttato i suoi libri fuori dalla finestra.
+- La nave ha uno scarico magico nei bagni collegato a condotti attraverso cui Pip è accidentalmente arrivato a bordo.
 
 ## Situazione attuale
-Kaelen ha appena lasciato il gioielliere dopo aver ordinato le collane aggiuntive. Deve tornare alla Gilda, dove sono attesi aggiornamenti su Veyra, Syrra e il mercante delle Terre Bruciate. Excalibur e la Pietra del Fuoco Eterno sono ancora con Kaelen. Il Ciondolo del Mana Infinito è stato consegnato alla Gilda.
+Kaelen e Veyra sono nella camera di Kaelen sulla nave Imperius. Dopo il loro appuntamento romantico, hanno deciso di dormire. La nave procede normalmente. Il gruppo dispone di 172 oro nel fondo comune. Excalibur, la Pietra del Fuoco Eterno e la chiave nera sono ancora con Kaelen. Il Ciondolo del Mana Infinito è stato consegnato alla Gilda.
 
 ## Segreti del narratore
 - Non rivelare automaticamente il significato completo del sistema del collare.
