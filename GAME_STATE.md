@@ -5,144 +5,113 @@
 ## Sessione
 - Stato: IN CORSO
 - Giorno: 4
-- Ora: mattina
-- Luogo: Eldermere, locanda / casa di Mara
+- Luogo: Rovena
 
 ## Protagonista
 - Nome: Kaelen
-- Età: sconosciuta
 - Razza: umano
 - Livello: 1
 - Grado Gilda: D
-- Condizioni: recuperato dalla stanchezza; nessuna ferita
-- Personalità: emerge dalle azioni e dalle parole del giocatore
+- Condizioni: fisicamente recuperato dopo l'esaurimento magico; nessuna ferita
 
 ## Abilità e magia
-- Nessuna competenza formale significativa.
-- Buona tolleranza al lavoro fisico.
-- Si sente più naturale a mani nude che con una spada.
 - Ha iniziato ad apprendere la magia da Lyris.
 - Riesce a percepire la magia di Lyris senza catalizzatore.
-- Ha percepito un "vuoto" anomalo, distinto dalla magia normale.
-- Il vuoto può interagire con una luce/energia opposta senza annullarla: le due percezioni si sono fuse in un'unica presenza.
-- Ha percepito una presenza non magica o non identificata che reagisce alla presenza di Lyris.
-- Un evento mentale ha sbloccato un sigillo: Kaelen ha visto una figura identica a sé circondata da una luce che sembrava contenere tutto. La figura si è fusa con lui, restituendogli frammenti di vecchi ricordi.
-- La luce e il vuoto non sono scomparsi: ora Kaelen li percepisce come un tutt'uno.
-- Non sono ancora stati appresi incantesimi concreti.
+- Ha percepito un vuoto anomalo, distinto dalla magia normale.
+- Il vuoto e una luce opposta si sono fusi in un'unica presenza.
+- Un sigillo mentale si è sbloccato dopo aver capito di essere stato inspiegabilmente attirato da Lyris già al primo incontro.
+- Kaelen ha visto una figura identica a sé, avvolta da una luce che sembrava contenere tutto; fondendosi con essa ha recuperato frammenti di vecchi ricordi.
+- La luce e il vuoto ora coesistono come un tutt'uno.
+- Ha evocato istintivamente un fulmine viola immenso, mettendo fuori combattimento due uomini e consumando completamente le proprie forze.
+- Non ha ancora imparato formalmente incantesimi controllati.
 
 ## Inventario
 - Abiti semplici
 - Tessera della Gilda degli Avventurieri, grado D
-- Falce-lancia magica di Brennar, capace di passare da falce a lancia
-- Provviste per il viaggio: cibo, acqua e coperta
-- Il collare magico NON è più nell'inventario: è stato affidato ad Arven nella Gilda e sigillato
+- Arco ricurvo
+- Faretra
+- 20 frecce
+- Provviste di viaggio
+- Falce-lancia magica: attualmente presso Brennar per potenziamento; costo concordato 15 monete d'oro, lavoro ancora in corso
+- Collare magico di Lyris: custodito e sigillato da Arven nella Gilda
+- 3 chiavi dei collari acquistate dal mercante di schiavi
+- Medaglione con simbolo identico a quello dei tre uomini che avevano inseguito Lyris
 
 ## Denaro
-- 0 monete d'argento rimaste dopo aver offerto la cena a Lyris
-- 0 monete di rame disponibili
+- 24 monete d'oro
+- 75 monete d'argento
+- 1 moneta d'oro è stata lasciata alla locandiera per cibo, vestiti e bagno per i tre ex schiavi
+- 25 monete d'argento spese per acquistare i tre schiavi e le loro chiavi
+- 15 monete d'oro spese da Brennar per il potenziamento della falce-lancia e arco + faretra + 20 frecce
 
 ## PNG importanti
+- Lyris: mezzelfa, ex schiava, libera; sa usare la magia senza catalizzatore e ha iniziato a insegnare a Kaelen.
+- Mara: conoscente di Lyris a Eldermere.
+- Arven: anziano esperto di maledizioni, vincoli e magia rituale della Gilda; custodisce il collare di Lyris.
+- Brennar: fabbro di Rovena; sta potenziando la falce-lancia di Kaelen.
+- Mercante di schiavi: nome sconosciuto; Kaelen gli ha detto in passato che Lyris era morta.
 - Locandiera del Cervo Grigio: donna sulla quarantina, pratica e disponibile.
-- Brennar: fabbro di Rovena; ha venduto a Kaelen la falce-lancia.
-- Arven: anziano esperto di maledizioni, vincoli e magia rituale della Gilda. Ha rimosso il collare dalla mezzelfa e ora lo custodisce.
-- Lyris: mezzelfa, ex schiava, ora libera. Sa usare la magia senza catalizzatore e ha iniziato a insegnare a Kaelen.
-- Mara: donna di Eldermere conosciuta da Lyris; ha protetto Lyris nascondendo informazioni a quattro uomini che la cercavano.
-- Mercante di schiavi: nome sconosciuto.
-- Uomo misterioso della cappella: uomo sui quarant'anni, abiti da viaggio scuri, pugnale; conosce il simbolo della cappella e il sistema runico del collare.
+- Uomo misterioso della cappella: legato al mistero del collare e dell'antico simbolo.
 
 ## Relazioni
-- Lyris: rapporto in crescita; Kaelen ha deciso volontariamente di seguirla verso Eldermere e imparare la magia da lei. Lyris ha ammesso di essere stata catturata dopo che il suo villaggio era stato attaccato e di essere stata venduta come schiava. Lyris e Kaelen sembrano essere collegati da qualcosa di antico e ancora ignoto.
-- Mara: rapporto positivo/neutrale; offre ospitalità e conosce il passato di Lyris.
-- Arven: rapporto positivo/neutrale; Kaelen gli ha affidato il collare.
-- Gilda: rapporto neutrale/positivo.
-- Brennar: rapporto neutrale/positivo.
-- Uomo della cappella: sconosciuto.
+- Lyris: rapporto molto stretto e in crescita. Kaelen l'ha liberata e ha scelto di seguirla. Lyris ha promesso di insegnargli la magia. Tra loro esiste un legame antico ancora non spiegato.
+- Gilda: rapporto positivo/neutrale.
+- Brennar: rapporto positivo.
+- Arven: rapporto positivo/neutrale.
 
 ## Quest e fili narrativi
-### Recupero della cassa della Gilda
-- Stato: COMPLETATA
-- Ricompensa: 15 argenti.
-
-### Collare della mezzelfa
-- Stato: COLLARE RIMOSSO; mistero attivo
-- Il collare è custodito e sigillato da Arven nella Gilda.
+### Collare di Lyris
+- Stato: RIMOSSO; mistero attivo.
+- Custodito e sigillato da Arven.
 
 ### Cappella nella foresta
-- Stato: ATTIVA / NON RISOLTA
-- Kaelen ha incontrato un uomo misterioso e ha scoperto che la pietra nera della cappella sembra ricevere il segnale associato alla runa residua del collare.
-- Tre persone armate sono arrivate alla cappella cercando qualcuno.
-- Kaelen ha preso il collare ed è fuggito, tornando a Rovena.
-- Kaelen ha poi consegnato il collare ad Arven.
+- Stato: ATTIVA / NON RISOLTA.
+- Il sistema runico della cappella sembra collegato al collare.
+- L'identità dell'uomo misterioso e dell'ordine legato al simbolo resta sconosciuta.
 
-### Viaggio verso Eldermere
-- Stato: ARRIVATO
-- Kaelen e Lyris sono arrivati a Eldermere.
-- Hanno incontrato Mara, conoscente di Lyris.
-- Mara ha riferito che quattro persone organizzate hanno cercato Lyris tre giorni prima e hanno chiesto se conoscesse una persona capace di usare la magia senza catalizzatore.
+### Legame Kaelen-Lyris
+- Stato: ATTIVO / MISTERO CENTRALE.
+- Kaelen percepisce una presenza legata a Lyris.
+- Il sigillo mentale si è sbloccato dopo aver riconosciuto che qualcosa lo aveva spinto a scegliere proprio Lyris tra gli schiavi.
+- I ricordi recuperati mostrano una Lyris molto più giovane, suggerendo un legame precedente all'incontro noto.
 
-### Origine di Lyris
-- Stato: PARZIALMENTE SCOPERTO
-- Lyris non è nata schiava.
-- A sedici anni il suo villaggio è stato attaccato e alcune persone, inclusa lei, sono state portate via.
-- È riuscita a fuggire e per anni ha vissuto spostandosi.
-- È stata catturata nuovamente alcuni mesi prima degli eventi attuali.
-- Il collare aveva anche una funzione legata al nascondere o impedire che qualcuno la trovasse.
+### Taglia su Lyris
+- Tre uomini hanno inseguito Kaelen e Lyris a Eldermere.
+- Uno è stato ucciso da Kaelen; gli altri due sono stati catturati e consegnati ai soldati di Rovena.
+- I due erano ricercati per aggressione, rapina e attività criminale.
+- Ricompensa totale ricevuta: 40 monete d'oro.
+- I due hanno dichiarato che la taglia non era su di loro ma su Lyris, ma non conoscevano il mandante.
+- Ricevevano ordini tramite messaggi lasciati sempre nello stesso luogo.
 
-### Sigillo e memoria di Kaelen
-- Stato: ATTIVO / MISTERO CENTRALE
-- La frase di Lyris secondo cui forse qualcosa dentro Kaelen l'aveva riconosciuta ha sbloccato un sigillo mentale.
-- Kaelen ha visto una figura identica a sé in uno spazio bianco, avvolta non dal vuoto ma dall'opposto: una luce che sembrava contenere tutto.
-- Avvicinandosi, la figura si è fusa con Kaelen.
-- Sono tornati frammenti di vecchi ricordi: una casa, una voce, persone, una stanza con simboli e un'immagine di una Lyris molto più giovane.
-- Il vuoto non è scomparso: si è fuso con la luce, formando una presenza unica che sembra comprendere sia l'esistenza sia l'assenza.
-- Lyris ha percepito il cambiamento e ha dichiarato di aver riconosciuto qualcosa in Kaelen.
+### Liberazione di altri schiavi
+- Kaelen ha deciso di usare parte delle ricompense ottenute dai criminali per liberare persone senza precedenti criminali.
+- Ha acquistato dal mercante tre persone: un ragazzo umano di 19 anni, un'elfa di 27 anni e un uomo umano di 32 anni.
+- Prezzo finale: 25 monete d'argento, comprese le tre chiavi dei collari.
+- Kaelen li ha portati alla locanda del Cervo Grigio e ha lasciato 1 moneta d'oro alla locandiera affinché desse loro cibo, vestiti e un bagno.
+- Non sono ancora stati liberati dai collari.
+
+## Eventi canonici recenti
+- Kaelen e Lyris sono tornati a Rovena dopo essere fuggiti da Eldermere.
+- Kaelen ha consegnato due dei tre inseguitori ai soldati e ha ricevuto 40 monete d'oro di ricompensa.
+- Kaelen si è recato da solo dal mercante di schiavi.
+- Ha chiesto persone senza precedenti criminali e ha acquistato tre schiavi con l'intenzione di liberarli.
+- Ha lasciato 1 moneta d'oro alla locandiera per occuparsi dei tre.
+- Kaelen si è recato da Brennar e ha concordato di spendere 15 monete d'oro per migliorare notevolmente la falce-lancia e ottenere anche un arco, una faretra e 20 frecce.
+- La falce-lancia è ora in lavorazione presso Brennar.
 
 ## Luoghi conosciuti
 - Rovena
 - Locanda del Cervo Grigio
 - Forgia di Brennar
 - Gilda degli Avventurieri
-- Foresta fuori Rovena
-- Vecchia cappella nella foresta
-- Strada verso Eldermere
 - Eldermere
 - Casa di Mara
+- Vecchia cappella nella foresta
 
-## Fazioni conosciute
-- Gilda degli Avventurieri
-- Mercato di schiavi di Rovena
-- Antico ordine associato al simbolo della cappella (nome sconosciuto)
-
-## Eventi canonici recenti
-- Kaelen ha liberato Lyris dal collare e le ha lasciato libertà di andarsene.
-- Kaelen ha poi deciso di seguirla e imparare la magia da lei.
-- Lyris ha rivelato il proprio nome: Lyris.
-- Lyris ha scelto di dirigersi verso Eldermere.
-- Kaelen e Lyris hanno preparato provviste e sono partiti da Rovena.
-- Durante la prima lezione Kaelen ha percepito inizialmente la magia di Lyris e poi un vuoto anomalo.
-- Kaelen ha avuto un forte esaurimento fisico dopo aver interagito con la magia di Lyris.
-- Durante un successivo momento di percezione, Kaelen ha percepito una presenza non identificata che reagiva a Lyris.
-- La presenza ha provocato un forte battito cardiaco ma poi è scomparsa.
-- La presenza è ricomparsa quando Kaelen ha rivisto Lyris e scompariva quando lei si allontanava.
-- Kaelen ha ricordato che già al primo incontro era stato inspiegabilmente spinto a scegliere Lyris tra molti schiavi.
-- Questa consapevolezza ha sbloccato un sigillo mentale.
-- Kaelen ha incontrato una versione di sé avvolta da una luce totale e si è fuso con essa.
-- La fusione ha riportato frammenti di memoria e ha unito la luce al vuoto.
-
-## Conoscenza di Kaelen
-- Lyris è viva, libera e sa usare la magia senza catalizzatore.
-- Lyris gli insegnerà la magia.
-- Eldermere è a nord di Rovena e Mara è una conoscente di Lyris.
-- Il collare è custodito da Arven nella Gilda.
-- La vecchia cappella e il sistema runico del collare sono ancora un mistero.
-- Qualcosa collega Kaelen e Lyris in modo precedente al loro incontro, ma la natura del legame è ignota.
-- Kaelen possiede una memoria sigillata che ha iniziato a riaprirsi.
+## Ultimo checkpoint
+Kaelen ha appena lasciato la forgia di Brennar. La falce-lancia è in lavorazione per un potenziamento; Brennar sta anche fornendo un arco, una faretra e 20 frecce. Kaelen ha 24 monete d'oro e 75 monete d'argento. I tre schiavi acquistati sono alla locanda del Cervo Grigio con la locandiera, che deve fornire loro cibo, vestiti e un bagno. Lyris è a Rovena. Kaelen deve ancora decidere come procedere con i tre e con il mistero della taglia su Lyris.
 
 ## Segreti del narratore
 - Non rivelare automaticamente il significato completo del sistema del collare.
-- L'identità dell'uomo della cappella e l'ordine legato al simbolo restano segreti.
 - Non spiegare ancora completamente la natura della luce, del vuoto o del legame tra Kaelen e Lyris.
 - La storia di fondo continua indipendentemente dalle azioni di Kaelen.
-
-## Ultimo checkpoint
-Kaelen è nella sua stanza alla locanda di Eldermere dopo l'evento del sigillo mentale. Ha appena visto nella propria mente una figura identica a sé, avvolta da una luce che sembra contenere tutto; la figura si è fusa con lui e ha restituito frammenti di memoria. Il vuoto è rimasto, ma ora è un tutt'uno con quella luce. Lyris è davanti a lui e ha percepito che qualcosa in Kaelen è cambiato, dicendo: «Io ti ho riconosciuto.»
