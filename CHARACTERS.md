@@ -1,61 +1,66 @@
 # CHARACTERS
 
-## Protagonista
-### Kaelen
-- Razza: umano
-- Età: sconosciuta
-- Personalità: non definita; emerge dalle scelte del giocatore
-- Stato: vivo, in viaggio
-- Conoscenze: limitate; non ricorda la propria origine
+## PROTAGONISTA
 
-## PNG
-### Mezzelfa senza nome
-- Razza: mezzelfa
-- Nome: sconosciuto
-- Età: giovane adulta
-- Ruolo: ex schiava; ora libera
-- Personalità: cauta, diretta, inizialmente diffidente; mostra gratitudine verso Kaelen
-- Abilità: magia, ancora non completamente definita
-- Stato: viva e libera
-- Ultimo incontro: ha lasciato Kaelen volontariamente dopo che Arven le ha rimosso il collare
-- Relazione con Kaelen: positiva ma non definita
+### Il nuovo studente
+- Nome: non ancora scelto
+- Età: non ancora stabilita
+- Razza: umano, salvo diversa scelta iniziale
+- Anno: Primo
+- Stato: appena ammesso all'Istituto di Asteria
+- Affinità: Gravità + Spazio
+- Livello di controllo: sconosciuto
+- Personalità: determinata esclusivamente dalle azioni del giocatore
+- Conoscenze: quelle normalmente possedute da una persona appena arrivata all'Istituto
+- Obiettivo iniziale: nessuno imposto
 
-### Arven
-- Ruolo: esperto della Gilda in maledizioni, vincoli e magia rituale
-- Personalità: prudente, competente
-- Stato: vivo
-- Relazione con Kaelen: neutrale/positiva
-- Ultimo incontro: ha rimosso il collare della mezzelfa
+Il protagonista non è automaticamente considerato un genio dagli altri studenti. La sua doppia affinità è rara, ma il suo valore reale deve ancora essere dimostrato.
 
-### Brennar
-- Ruolo: fabbro di Rovena
-- Stato: vivo
-- Relazione con Kaelen: neutrale/positiva
+## PNG INIZIALI
 
-### Locandiera del Cervo Grigio
-- Età: circa quarant'anni
+### Professoressa Elian Veyr
+- Ruolo: docente di Teoria della Trama
+- Anno: insegnante esperta
+- Personalità: precisa, severa, attenta ai dettagli
+- Interesse: capire il reale funzionamento delle anomalie magiche
 - Stato: viva
-- Relazione con Kaelen: neutrale/positiva
 
-### Uomo della cappella
-- Età: circa quarant'anni
-- Aspetto: abiti da viaggio scuri, protezione di cuoio, pugnale
-- Identità: sconosciuta
-- Conoscenze: conosce il simbolo della cappella e il sistema runico del collare
-- Obiettivi: sconosciuti
+### Maestro Garran Holt
+- Ruolo: docente di combattimento magico
+- Personalità: diretto, esigente, poco interessato alle scuse
 - Stato: vivo
-- Relazione con Kaelen: sconosciuta
-- Ultimo incontro: nella vecchia cappella della foresta
 
-### Mercante di schiavi
-- Nome: sconosciuto
+### Seris Vale
+- Anno: terzo
+- Elemento: Fulmine
+- Ruolo: studentessa molto conosciuta dell'Istituto
+- Personalità: sicura di sé, competitiva
 - Stato: vivo
-- Relazione con Kaelen: negativa/neutrale
+- Relazione con protagonista: sconosciuta
 
-### Funzionario della Gilda
-- Nome: sconosciuto
+### Cael Ardent
+- Anno: quarto
+- Elemento: Fuoco
+- Ruolo: membro degli Elite
+- Personalità: disciplinato, orgoglioso
 - Stato: vivo
-- Interesse: cassa recuperata da Kaelen
+- Relazione con protagonista: sconosciuta
 
-## Personaggi morti / usciti dalla storia
-Nessuno dei personaggi conosciuti è stato confermato morto.
+### Mira Solenne
+- Anno: primo
+- Elemento: Acqua
+- Ruolo: nuova studentessa
+- Personalità: da scoprire
+- Stato: viva
+- Relazione con protagonista: sconosciuta
+
+### Daren Kross
+- Anno: primo
+- Elemento: Terra
+- Ruolo: nuovo studente
+- Personalità: da scoprire
+- Stato: vivo
+- Relazione con protagonista: sconosciuta
+
+## Regola
+Nuovi personaggi vengono creati quando la storia li rende necessari. Non vengono considerati automaticamente amici, nemici o interessi romantici del protagonista.
