@@ -1,67 +1,192 @@
-# WORLD
+# WORLD — ISTITUTO DI ASTERIA
 
-## Identità della campagna
-Fantasy maturo, coerente e progressivo. La storia non deve sembrare una sequenza di eventi casuali o di colpi di scena inseriti solo per sorprendere.
+## Premessa
 
-## Tono
-- Maturo
-- Serio quando la situazione lo richiede
-- Drammatico senza essere melodrammatico
-- Misterioso quando appropriato
-- Violenza e morte trattate come conseguenze reali, non come spettacolo gratuito
-- Umorismo possibile quando nasce naturalmente dai personaggi
+Il mondo è attraversato dalla **Trama**, una struttura invisibile che collega materia, energia, spazio e volontà. La magia consiste nell'interagire con una parte della Trama.
 
-## Principi narrativi
-- La trama deve avere una struttura e una storia di fondo che esiste indipendentemente dal protagonista.
-- La storia di fondo si sviluppa gradualmente e può rivelare temi diversi attraverso i personaggi incontrati.
-- Ogni personaggio importante può portare un proprio tema, conflitto, passato e modo di vedere il mondo.
-- I temi devono emergere dalle azioni e dalle conseguenze, non essere spiegati artificialmente dal narratore.
-- La trama può cambiare direzione in risposta alle azioni del protagonista, ma non deve diventare incoerente per assecondarlo.
-- Niente colpi di scena senza preparazione, deus ex machina o coincidenze assurde usate per risolvere problemi.
-- Niente personaggi che compiono azioni palesemente stupide solo per permettere al protagonista di avanzare.
-- Se un personaggio fa una scelta apparentemente irrazionale, deve esistere una motivazione coerente con ciò che sa, crede, teme o desidera.
-- I PNG hanno obiettivi propri e possono rifiutare, mentire, tradire, aiutare o ignorare il protagonista.
-- Il mondo continua a muoversi anche quando il protagonista non interviene.
-- Le conseguenze possono essere positive, negative, ambigue o impreviste.
-- Il protagonista non è predestinato a vincere e non riceve protezione narrativa gratuita.
-- Gli eventi già avvenuti sono canonici e non vengono modificati retroattivamente senza una ragione narrativa esplicita.
-- Le informazioni sconosciute al protagonista non devono essere rivelate arbitrariamente.
+La maggior parte dei maghi nasce con una predisposizione verso un **Elemento Base**. Gli elementi non sono semplicemente quattro tipi di incantesimi: sono discipline fondamentali dalle quali derivano numerosi sottorami.
 
-## Protagonista
-- Umano
-- Senza nome iniziale
-- Personalità non predefinita: emerge esclusivamente dalle azioni, parole e decisioni del giocatore.
-- Capacità iniziali molto basse: all'inizio non sa praticamente fare nulla di rilevante.
-- Le competenze devono essere apprese, allenate o sviluppate attraverso l'esperienza.
+## Elementi Base
 
-## Sistema di crescita
-Le statistiche non vengono scelte in anticipo dal giocatore.
+Le principali scuole riconosciute sono:
 
-Il sistema osserva ciò che il protagonista fa e adatta progressivamente le sue caratteristiche. La crescita deve essere coerente con l'esperienza reale del personaggio.
+- **Fuoco** — calore, combustione, pressione, plasma.
+- **Acqua** — liquidi, ghiaccio, nebbia, pressione idraulica.
+- **Terra** — roccia, metalli, cristalli, struttura.
+- **Aria** — vento, suono, movimento, pressione.
+- **Luce** — energia luminosa, percezione, barriera, purificazione.
+- **Ombra** — oscuramento, occultamento, legami con l'assenza di luce.
+- **Fulmine** — elettricità, impulsi, velocità di conduzione.
+- **Natura** — crescita, piante, tossine, interazione biologica.
 
-Esempi:
-- combattere ripetutamente può sviluppare capacità fisiche e tecniche;
-- osservare e analizzare può sviluppare percezione e ragionamento;
-- mentire e manipolare può sviluppare capacità sociali legate all'inganno;
-- affrontare situazioni pericolose può modificare coraggio, sangue freddo o gestione della paura;
-- fallire può comunque produrre apprendimento.
+Esistono discipline più rare che non vengono considerate Elementi Base.
 
-La crescita non deve essere immediata né garantita: le azioni devono avere abbastanza ripetizione, difficoltà o significato da giustificare un cambiamento.
+### Spazio
 
-## Magia e sistemi soprannaturali
-Da definire e scoprire progressivamente. Il protagonista non deve conoscere automaticamente le regole della magia.
+La magia spaziale manipola distanza, posizione, direzione e geometria della Trama.
 
-## Geografia
-Da definire progressivamente.
+Possibili applicazioni conosciute:
+- percezione delle distanze;
+- piegatura dello spazio;
+- piccoli spostamenti;
+- barriere geometriche;
+- compressione o espansione di spazi;
+- costruzione di varchi.
+
+La magia spaziale è difficile da controllare perché un errore può avere conseguenze fisiche reali.
+
+### Gravità
+
+La magia gravitazionale modifica l'attrazione e la distribuzione delle forze.
+
+Possibili applicazioni:
+- aumentare o diminuire il peso apparente;
+- alterare traiettorie;
+- creare zone di pressione;
+- sospendere oggetti;
+- concentrare la forza in un punto.
+
+È estremamente rara.
+
+### Spazio + Gravità
+
+La combinazione delle due discipline è ancora più rara. L'Istituto non possiede un programma ordinario per insegnarla perché esistono pochissimi utilizzatori documentati.
+
+Il protagonista possiede entrambe le affinità.
+
+Questo non significa che sia automaticamente potente: all'inizio il controllo è rozzo e può essere pericoloso.
+
+## Istituto di Asteria
+
+L'**Istituto Arcano di Asteria** è una delle più importanti accademie magiche del continente.
+
+È costruito su una gigantesca formazione rocciosa sospesa sopra una valle. Torri, ponti e cortili sono collegati da passaggi che cambiano lentamente configurazione in base alle esigenze dell'Istituto.
+
+Gli studenti vengono normalmente ammessi tra i 15 e i 19 anni.
+
+Il percorso standard dura **cinque anni**.
+
+### Struttura degli studi
+
+Ogni studente segue:
+- teoria della magia;
+- controllo del mana;
+- storia della magia;
+- duello e difesa;
+- laboratorio pratico;
+- studio del proprio elemento;
+- discipline secondarie;
+- attività e prove individuali.
+
+Gli studenti possono sviluppare sottorami molto diversi pur partendo dallo stesso Elemento Base.
+
+## Le Classi
+
+Gli studenti vengono inizialmente organizzati in classi miste.
+
+Il rendimento viene valutato attraverso:
+- controllo;
+- potenza;
+- precisione;
+- creatività;
+- teoria;
+- combattimento;
+- comportamento;
+- capacità di lavorare sotto pressione.
+
+I voti non determinano completamente il valore di uno studente: alcuni talenti diventano evidenti solo durante situazioni pratiche.
+
+## Gli Elite
+
+Alla fine di ogni anno esiste la **Selezione degli Elite**.
+
+L'Istituto osserva gli studenti migliori e, durante una serie di prove, può offrire loro l'accesso al **Circolo degli Elite**.
+
+Gli Elite ricevono:
+- allenamenti speciali;
+- accesso a laboratori normalmente chiusi;
+- maestri personali;
+- testi rari;
+- incarichi speciali;
+- maggiore libertà all'interno dell'Istituto.
+
+Entrare negli Elite non significa semplicemente avere i voti più alti. La selezione tiene conto di talento, risultati, controllo, capacità di adattamento e potenziale.
+
+Gli Elite degli anni superiori sono spesso considerati le persone più influenti dell'Istituto.
+
+## Il Circolo degli Elite
+
+Il Circolo è piccolo e competitivo.
+
+Gli studenti al suo interno non sono necessariamente amici. Possono collaborare, competere o ostacolarsi.
+
+Un Elite può perdere il proprio posto se fallisce ripetutamente o viola determinate regole.
+
+## Vita dell'Istituto
+
+Asteria non è solo un luogo di lezioni.
+
+Esistono:
+- dormitori;
+- mensa;
+- biblioteca;
+- arena di duello;
+- laboratori;
+- serre;
+- osservatorio;
+- archivio;
+- corridoi sotterranei;
+- club studenteschi;
+- tornei;
+- feste;
+- esami;
+- spedizioni autorizzate;
+- aree interdette.
+
+Gli studenti formano amicizie, rivalità, gruppi e relazioni personali.
+
+## Regole della magia
+
+Il mana è limitato. Un incantesimo richiede energia e controllo.
+
+La potenza non è tutto: precisione, tecnica e comprensione possono permettere a un mago meno potente di superare un avversario più forte.
+
+Usare magia oltre il proprio controllo può causare:
+- esaurimento;
+- perdita temporanea del controllo;
+- lesioni;
+- danni alla Trama circostante;
+- effetti imprevedibili.
 
 ## Storia del mondo
-Da definire. Deve esistere una storia precedente agli eventi della campagna e avere conseguenze sul presente.
 
-## Fazioni
-Da definire.
+Secoli prima dell'epoca attuale avvenne un evento chiamato **la Frattura**.
 
-## Religioni e credenze
-Da definire.
+Una parte della Trama venne deformata. Intere regioni cambiarono posizione, alcune città scomparvero e comparvero zone dove spazio e tempo non si comportavano normalmente.
 
-## Tecnologia
-Da definire.
+La causa ufficiale non è conosciuta.
+
+Gli studi moderni trattano la Frattura come un evento storico concluso.
+
+Asteria conserva però documenti che suggeriscono che alcuni effetti della Frattura non siano mai terminati.
+
+## Geografia
+
+Il continente è diviso in diversi regni e territori autonomi. Asteria si trova in una zona neutrale e accetta studenti provenienti da molte nazioni.
+
+La città universitaria ai piedi dell'Istituto è **Lunaris**.
+
+## Tono
+
+Fantasy scolastico con:
+- vita quotidiana;
+- rivalità;
+- crescita personale;
+- combattimenti;
+- misteri;
+- relazioni;
+- politica interna dell'Istituto;
+- esplorazione;
+- eventi soprannaturali.
+
+La storia può diventare più oscura se le azioni e gli eventi lo richiedono.
