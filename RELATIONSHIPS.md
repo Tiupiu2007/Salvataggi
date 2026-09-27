@@ -1,22 +1,13 @@
 # RELATIONSHIPS
 
-Archivio delle relazioni significative.
+Le relazioni iniziano da zero e cambiano in base alle interazioni effettive.
 
-## Scala indicativa
-- -100 / -76: odio
-- -75 / -51: ostilità
-- -50 / -26: diffidenza
-- -25 / -1: rapporto negativo
-- 0: neutrale
-- 1 / 25: simpatia
-- 26 / 50: fiducia
-- 51 / 75: forte legame
-- 76 / 100: legame eccezionale
-
-## Relazioni
-Nessuna ancora definita.
+## Relazioni attuali
+Nessuna.
 
 ## Regole
-- La relazione non cambia senza una causa narrativa.
-- I PNG ricordano azioni significative del protagonista.
-- Fiducia, paura, rispetto, affetto e rancore possono evolvere separatamente quando necessario.
+- Non assegnare automaticamente amicizia, odio, attrazione o fiducia.
+- I PNG ricordano ciò che il protagonista fa e dice.
+- La reputazione può essere diversa da una relazione personale.
+- Un PNG può apprezzare il protagonista ma non fidarsi di lui, oppure fidarsi di lui senza apprezzarlo.
+- Le relazioni possono cambiare lentamente o rapidamente in base alla gravità degli eventi.
