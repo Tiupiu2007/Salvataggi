@@ -1,22 +1,12 @@
 # QUESTS
 
-## Quest attive
+## Attive
 Nessuna.
 
-## Quest completate
+## Completate
 Nessuna.
 
-## Quest fallite
+## Fallite
 Nessuna.
 
-## Template
-- ID:
-- Titolo:
-- Stato:
-- Obiettivo:
-- Informazioni note:
-- Progresso:
-- PNG coinvolti:
-- Luoghi coinvolti:
-- Ricompense note:
-- Conseguenze:
+Le missioni, gli incarichi e gli obiettivi verranno creati organicamente dalla storia.
