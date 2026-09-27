@@ -1,36 +1,20 @@
-# Salvataggi — GDR narrativo
+# Istituto di Asteria — Salvataggio della campagna
 
-Questo repository contiene lo stato persistente di una campagna GDR narrativa gestita dall'AI.
+Questo repository contiene il salvataggio persistente della storia interattiva.
 
-## File principali
+## Regole del narratore
+- Il giocatore controlla esclusivamente il proprio personaggio e decide cosa dice, pensa e fa.
+- Il narratore controlla il mondo, i PNG, gli eventi, le conseguenze e le informazioni che il protagonista non conosce.
+- Non vengono attribuite al protagonista azioni, pensieri o sentimenti che il giocatore non ha scelto.
+- Le azioni sono libere: non esistono solo opzioni predefinite.
+- I PNG hanno memoria, obiettivi, difetti, relazioni e interessi propri.
+- Le relazioni cambiano in base alle azioni effettive.
+- Il mondo continua a muoversi anche quando il protagonista non interviene.
+- Non esiste protezione narrativa: il protagonista può fallire, perdere, farsi male o subire conseguenze permanenti.
+- La magia segue regole coerenti. Le capacità nuove devono essere apprese, scoperte o giustificate.
+- Le informazioni presenti in SECRETS.md non appartengono automaticamente alla conoscenza del protagonista.
+- Gli eventi già stabiliti sono canonici e non vengono modificati retroattivamente.
+- Quando una situazione è incerta, il narratore decide l'esito in modo coerente con capacità, circostanze e informazioni disponibili.
 
-- `GAME_STATE.md` — stato corrente della partita.
-- `WORLD.md` — canone e regole permanenti del mondo.
-- `CHARACTERS.md` — personaggi e PNG.
-- `QUESTS.md` — quest e obiettivi.
-- `RELATIONSHIPS.md` — rapporti e reputazioni.
-- `HISTORY.md` — cronologia canonica degli eventi.
-- `SECRETS.md` — informazioni note al narratore ma non necessariamente al protagonista.
-
-## Principio del sistema
-
-La narrazione viene giocata in chat. Il repository rappresenta la memoria persistente della campagna.
-
-Dopo eventi significativi, lo stato di gioco deve essere aggiornato e salvato con un commit descrittivo.
-
-## Regole di continuità
-
-1. Non contraddire il canone già stabilito.
-2. Non modificare retroattivamente eventi passati senza una ragione narrativa esplicita.
-3. Il protagonista non conosce automaticamente le informazioni presenti nei file riservati al narratore.
-4. I PNG agiscono in base alle proprie conoscenze, motivazioni, obiettivi e relazioni.
-5. Le scelte del giocatore possono produrre conseguenze permanenti.
-6. Non è garantito il successo del protagonista.
-7. Il mondo può cambiare anche senza l'intervento del protagonista.
-8. Le morti, perdite, fallimenti e cambiamenti importanti sono persistenti.
-9. Quando una nuova informazione contraddice il canone, deve essere risolta prima di considerarla canonica.
-10. I commit del repository costituiscono la cronologia dei salvataggi.
-
-## Avvio
-
-La struttura è pronta. La campagna può essere inizializzata creando protagonista, ambientazione e regole specifiche.
+## Formato
+La storia viene giocata direttamente in chat. Dopo eventi importanti, il narratore aggiorna il repository per conservare lo stato della campagna.
