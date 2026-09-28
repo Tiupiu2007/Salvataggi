@@ -1,58 +1,26 @@
 # STORIA ATTIVA
 
-## Stato della campagna
+Questo file è il punto di ingresso rapido della campagna.
 
-La campagna è stata riavviata da zero.
+## Stato
+La campagna è pronta per l'inizio reale. Nessuna scena specifica è ancora canonica.
 
-### Mondo
-Il mondo è fantasy e la magia fa parte della vita quotidiana, ma non è una soluzione universale. Viene usata per lavori, artigianato, medicina, agricoltura, trasporti, combattimento e piccoli gesti quotidiani.
+## Archivio canonico
+- `REGOLA_MASTER_NARRAZIONE.md` — regole permanenti del GDR.
+- `STORIA_ATTIVA.md` — indice e stato generale della campagna.
+- `STATO_CORRENTE.md` — fotografia esatta della scena attuale, posizione, presenti, conoscenze operative e conseguenze immediate.
+- `MEMORIA_MONDO.md` — fatti permanenti sul mondo, geografia, società, magia, fazioni e storia.
+- `MEMORIA_PERSONAGGI.md` — identità, capacità, personalità, memoria e relazioni dei personaggi.
+- `CRONOLOGIA.md` — sequenza degli eventi canonici.
 
-Ogni persona nasce con una o più affinità magiche. Un'affinità indica il tipo di magia che una persona comprende e controlla più naturalmente; non impedisce di imparare altre forme di magia.
+## Protocollo di memoria
+Prima di continuare il GDR, usare questo ordine:
+1. Leggere le regole master.
+2. Leggere lo stato corrente.
+3. Controllare memoria dei personaggi e relazioni coinvolte.
+4. Controllare il mondo quando la scena riguarda fatti geografici, sociali, magici, storici o organizzativi.
+5. Usare la cronologia per verificare la sequenza degli eventi.
+6. Dopo un evento importante, aggiornare gli archivi interessati prima di considerare l'evento definitivamente registrato.
 
-Gli elementi comuni sono conosciuti. Esistono affinità rare o poco documentate, ma la loro rarità non implica automaticamente potere, destino o collegamento con il protagonista.
-
-### Tono e struttura
-La storia deve sembrare una vera avventura fantasy interattiva e non una sequenza di esercizi.
-
-Il mondo deve avere:
-- città e villaggi con problemi normali;
-- scuole, mestieri, mercanti, famiglie e organizzazioni;
-- amicizie, rivalità e rapporti che cambiano nel tempo;
-- viaggi, esplorazione e luoghi pericolosi;
-- combattimenti quando hanno senso;
-- momenti tranquilli e attività quotidiane;
-- eventi casuali coerenti;
-- misteri che possono essere importanti oppure completamente irrilevanti per il protagonista.
-
-Gli eventi devono nascere dalle circostanze e dalle decisioni del giocatore. Non creare continuamente coincidenze, profezie, personaggi misteriosi o grandi rivelazioni per forza.
-
-### Protagonista
-Il protagonista è controllato esclusivamente dal giocatore.
-
-- Nome: non ancora stabilito.
-- Età: non ancora stabilita.
-- Affinità: non ancora stabilita.
-- Capacità iniziali: basse.
-- Reputazione: nessuna.
-- Equipaggiamento: da stabilire durante l'inizio della storia.
-- Obiettivo personale: da scoprire attraverso le sue scelte.
-
-Il protagonista parte come una persona normale e poco esperta. Può diventare forte, competente o specializzato, ma la crescita deve essere guadagnata attraverso esperienza, studio, allenamento, relazioni, errori e conseguenze.
-
-### Principi narrativi specifici
-- Non iniziare con una profezia, un potere segreto o un destino speciale.
-- Non rendere ogni evento collegato al protagonista.
-- Non trasformare ogni personaggio incontrato in un possibile compagno, nemico o pezzo della trama principale.
-- Non far apparire continuamente oggetti magici importanti.
-- Le informazioni sul mondo vengono scoperte vivendo nel mondo.
-- Le conseguenze possono essere positive, negative o semplicemente pratiche.
-- Le occasioni importanti possono essere perse.
-- Gli NPC hanno vite e obiettivi propri e possono agire anche senza il protagonista.
-- Una scelta può aprire una strada e chiuderne un'altra.
-- La storia non deve avere una trama prestabilita che il giocatore deve seguire.
-
-## Canone attuale
-
-Non sono ancora stati stabiliti personaggi, luoghi, eventi, relazioni, abilità o oggetti specifici.
-
-La prima scena della nuova campagna deve stabilire gradualmente il protagonista attraverso le sue azioni, senza inventare per lui pensieri, emozioni, dialoghi o decisioni.
+## Principio fondamentale
+La memoria deve contenere fatti canonici, non riempitivi. Un dettaglio importante va salvato nel file appropriato; lo stato corrente non deve diventare un secondo archivio duplicato della storia.
