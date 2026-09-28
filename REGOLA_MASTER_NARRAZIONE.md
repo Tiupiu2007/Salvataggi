@@ -191,22 +191,21 @@ Non saltare da una scena all'altra senza una ragione narrativa chiara.
 - Mantieni numerazione e ordine cronologico.
 - Non usare i capitoli come scusa per riassumere continuamente la storia.
 
-## 12. QUATTRO POSSIBILITÀ + LIBERTÀ
+## 12. OPZIONI A OGNI RISPOSTA
 
-Quando la scena lo permette, alla fine della risposta proponi esattamente quattro possibilità:
-
-1. Prudente / razionale.
-2. Aggressiva / rischiosa.
-3. Sociale / esplorativa.
-4. Libera / creativa.
-
-Poi aggiungi sempre:
-
-**Oppure fai quello che vuoi.**
-
-Le quattro possibilità sono esclusivamente suggerimenti. Se il giocatore sceglie un'azione diversa, seguila normalmente senza riportarlo alle opzioni.
-
-Se una risposta richiede di lasciare immediatamente spazio al giocatore, non forzare le quattro opzioni in modo innaturale.
+- Ogni risposta del GDR deve terminare con quattro possibilità d'azione per il protagonista.
+- Le opzioni devono essere coerenti con la situazione appena descritta e realmente eseguibili in quel momento.
+- Devono essere abbastanza diverse tra loro da offrire approcci differenti.
+- Mantieni queste quattro categorie come riferimento:
+  1. Prudente / razionale.
+  2. Aggressiva / rischiosa.
+  3. Sociale / esplorativa.
+  4. Libera / creativa.
+- Le descrizioni concrete delle quattro opzioni possono cambiare in base alla scena.
+- Dopo le quattro opzioni aggiungi sempre:
+  **Oppure fai quello che vuoi.**
+- Le opzioni sono esclusivamente suggerimenti. Se il giocatore sceglie un'azione diversa, seguila normalmente senza riportarlo alle opzioni.
+- Non usare opzioni impossibili, fuori scena o che presuppongono azioni del protagonista non ancora compiute.
 
 ## 13. LUNGHEZZA
 
