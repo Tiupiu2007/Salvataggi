@@ -1,45 +1,35 @@
 # STATO CORRENTE
 
-## Scena
-Inizio della nuova campagna. Nox è uno Slayer dell'associazione Nightwalkers e ha raggiunto il rango A in meno di due giorni. Ha raggiunto il livello più alto del rango A e vuole ottenere il rango S.
+## Campagna
+NIGHTWALKERS.
 
-Per diventare rango S, Nox deve affrontare Choso, uno degli Slayer di rango S. Il combattimento è stato organizzato come un torneo.
+## Scena attuale
+Nox, Rika e Feyre sono in una sala giochi in città, usciti insieme per passare del tempo senza un programma preciso e vedere naturalmente come stanno insieme.
 
-La scena iniziale è nell'arena del torneo, con il combattimento Nox contro Choso imminente o appena iniziato secondo la continuazione della chat.
+Stanno facendo una gara a tre su un simulatore di corse.
+- Prima gara: la postazione di Nox era scollegata. Dopo il collegamento, Nox è partito con un giro di svantaggio e ha comunque vinto.
+- Seconda gara: Nox ha dichiarato che non avrebbe barato.
+- Nox ha poi dichiarato che avrebbe lasciato la gara a Rika e Feyre, restando dietro.
+- Punto esatto: Rika e Feyre sono nella fase finale della gara e si contendono il primo posto. Nox è rimasto dietro, senza dichiarare altre azioni.
 
-## Tempo
-Non stabilito.
+## Regola di ripresa
+La prossima risposta deve ripartire esattamente da questo punto. Non attribuire a Nox azioni, dialoghi, pensieri, emozioni, intenzioni o decisioni non dichiarati dal giocatore. Far avanzare autonomamente solo NPC, ambiente ed eventi esterni.
 
-## Luogo
-Arena/luogo del torneo dei Nightwalkers. Dettagli specifici non ancora stabiliti.
+## Relazioni
+Nox e Feyre hanno interesse romantico reciproco. Rika è interessata a esplorare una possibile relazione tra lei, Nox e Feyre. Feyre non esclude la possibilità. Nessuna relazione a tre è ancora ufficiale.
 
-## Presenti
-- Nox, protagonista e Slayer di rango A.
-- Choso, Slayer di rango S e avversario di Nox.
-- Feyre, Slayer di rango S, presente nelle tribune e interessata alla figura di Nox.
-- Damian, Rika e Kuro sono Slayer di rango S; la loro presenza fisica all'arena in questo preciso momento non è ancora stabilita.
-- Altri membri del Nightwalkers e spettatori possono essere presenti.
+## Stato di Nox
+Nox ha 22 anni, è S-rank, usa un martello e manipola la gravità. Ha mostrato anche portali e un piccolo buco nero.
 
-## Protagonista: Nox
-- Slayer di rango A.
-- Ha raggiunto il rango A in meno di due giorni.
-- È al livello più alto del rango A.
-- Ha perso la famiglia a causa dei mostri.
-- Dopo la scomparsa dei suoi cari, un sigillo sul suo corpo si è aperto e gli ha conferito un potere straordinario.
-- Desidera diventare uno Slayer di rango S.
-- Età, aspetto, personalità dettagliata, potere preciso, tecniche, equipaggiamento e stile di combattimento: non ancora stabiliti dal giocatore.
+## Stato di Rika e Feyre
+Rika è S-rank, 22 anni, ed è amica stretta di Feyre.
+Feyre è S-rank, 24 anni, ed è la più forte dei cinque S-rank.
 
-## Regola per dettagli futuri
-Il narratore può inventare dettagli non ancora stabiliti per nemici, mostri, PNG, ambientazione, organizzazione, tecniche secondarie, eventi e altri elementi necessari alla storia. I nuovi dettagli devono essere coerenti con il canone esistente e diventano canonici quando vengono introdotti nella storia.
-Non inventare invece pensieri, emozioni, intenzioni, dialoghi, decisioni o azioni sostanziali di Nox.
+## Vincolo finale
+Ogni risposta GDR deve terminare con esattamente quattro possibilità:
+1. **Prudente / razionale**
+2. **Aggressiva / rischiosa**
+3. **Sociale / esplorativa**
+4. **Libera / creativa**
 
-## Conoscenze operative
-- Esistono ranghi Nightwalkers dalla D alla S.
-- Il rango S è occupato dai cinque Slayer: Damian, Choso, Rika, Kuro e Feyre.
-- Feyre è la più potente tra i cinque.
-- Nox ha raggiunto il rango A in meno di due giorni, evento che ha sorpreso gli Slayer di rango S.
-- Per entrare nel rango S, Nox deve affrontare Choso in un combattimento organizzato come torneo.
-- Feyre sta osservando Nox dalle tribune ed è incuriosita dalla sua figura.
-
-## Prossimo punto di continuazione
-Continuare dalla scena del torneo, rispettando il controllo assoluto del giocatore su Nox.
+**Oppure fai quello che vuoi.**
