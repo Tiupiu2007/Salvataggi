@@ -89,7 +89,8 @@ Questo file contiene il registro dei personaggi canonici della nuova campagna.
 - Con gli amici: amichevole e diretto.
 - Con i nemici: sfidante e provocatorio.
 - Con chi rispetta: leale e diretto.
-- Potere: manipolazione della densità e della gravità locale.
+- Potere: controllo della natura e della vegetazione. Può far crescere e manipolare rapidamente piante, radici, rampicanti, alberi e altre forme di materia vegetale; può creare strutture offensive e difensive, immobilizzare nemici e trasformare il terreno in un ambiente favorevole.
+- Limiti del potere: non stabiliti in dettaglio; potranno essere sviluppati coerentemente durante la storia.
 - Stile di combattimento: corpo a corpo pesante e sfondamento delle difese, con guanti potenziati o armi contundenti pesanti.
 - Posizione nel gruppo: pilastro difensivo e offensivo, subito dopo Feyre.
 
