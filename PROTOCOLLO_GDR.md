@@ -222,3 +222,13 @@ In caso di conflitto:
 Il sistema di memoria deve permettere di riprendere la campagna anche dopo molto tempo senza dover ricostruire tutto dalla chat.
 
 La memoria non deve guidare artificialmente la storia: deve conservare ciò che la storia ha realmente stabilito.
+
+
+## 15. CONTROLLO OBBLIGATORIO PRIMA DELL'INVIO
+1. Isolare l'ultima azione dichiarata dal giocatore.
+2. Descrivere solo quella azione e le conseguenze immediate del mondo.
+3. Fermare la scena prima di qualsiasi nuova azione di Nox.
+4. Far agire autonomamente soltanto NPC, ambiente ed eventi esterni coerenti.
+5. Aggiungere esattamente quattro possibilità future per Nox e la frase finale obbligatoria.
+6. Verificare che nessuna opzione sia stata narrata come già compiuta.
+7. Verificare che Nox non abbia ricevuto pensieri, emozioni, dialoghi, decisioni o azioni non dichiarate.
