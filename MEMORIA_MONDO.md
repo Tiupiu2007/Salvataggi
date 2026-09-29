@@ -1,11 +1,11 @@
 # MEMORIA MONDO — CANONE PERSISTENTE
 
-Questo file contiene solo fatti del mondo diventati canonici nella nuova campagna.
+Questo file contiene i fatti del mondo diventati canonici nella nuova campagna.
 
 ## Mondo
 - Il mondo è stato sconvolto dall'arrivo di milioni di mostri che lo hanno portato nel caos e tentato di soggiogarlo.
 - Gli esseri umani dotati di poteri non si sono arresi.
-- I mostri sono una minaccia globale; dettagli sulla loro origine, natura, organizzazione e distribuzione non sono ancora stabiliti.
+- I mostri sono una minaccia globale; dettagli sulla loro origine, natura, organizzazione e distribuzione possono essere sviluppati dal narratore quando necessari, purché restino coerenti con il canone.
 
 ## Nightwalkers
 - Esiste un'associazione di cacciatori di mostri chiamata Nightwalkers.
@@ -20,21 +20,30 @@ Questo file contiene solo fatti del mondo diventati canonici nella nuova campagn
 
 ## Rango S
 - Feyre è la più potente tra i cinque Slayer di rango S.
-- Feyre possiede il potere del fulmine.
-- Feyre combatte anche con una spada fatta di un diamante speciale che porta sempre con sé.
-- Non sono ancora stabiliti i poteri, le armi o gli stili di combattimento degli altri quattro Slayer di rango S.
+- Feyre possiede il dominio del fulmine e del plasma e usa una spada speciale di diamante capace di condurre e amplificare l'energia elettrica senza fondersi.
+- Damian manipola densità e gravità locale.
+- Choso controlla materia fluida o sangue e tecniche affini.
+- Rika possiede agilità estrema potenziata e può proiettare energia cinetica.
+- Kuro possiede occultamento totale e manipolazione delle ombre e dell'oscurità.
+- I dettagli tecnici non ancora forniti possono essere sviluppati dal narratore in modo coerente.
 
 ## Sistema di poteri
 - Gli esseri umani dotati di poteri esistono.
-- Il funzionamento generale dei poteri, i loro limiti, la loro origine e l'eventuale classificazione non sono ancora stabiliti.
+- Il funzionamento generale dei poteri, la loro origine, i limiti universali e l'eventuale classificazione non sono ancora stabiliti.
+- I poteri specifici e i limiti già stabiliti nei profili dei personaggi sono canonici.
 - Nox possiede un potere straordinario ottenuto quando un sigillo sul suo corpo si è aperto dopo la scomparsa della sua famiglia.
-- Non sono ancora stabiliti il funzionamento del sigillo e i dettagli del potere di Nox.
+- Il funzionamento del sigillo e i dettagli precisi del potere di Nox non sono ancora stabiliti dal giocatore.
 
-## Informazioni non ancora stabilite
-- Geografia e nazioni.
-- Struttura interna dei Nightwalkers oltre ai ranghi.
-- Natura e origine dei mostri.
-- Regole precise dei combattimenti tra Slayer.
-- Criteri completi per avanzare di rango.
-- Dettagli del torneo.
-- Storia dei cinque Slayer di rango S.
+## Sviluppo autonomo del mondo
+Il narratore può introdurre e sviluppare autonomamente:
+- nemici e mostri;
+- PNG e personaggi secondari;
+- luoghi, città, fazioni e organizzazioni;
+- tecniche e abilità secondarie;
+- storia e leggende del mondo;
+- regole operative non ancora definite;
+- eventi, missioni e conseguenze.
+Ogni nuovo elemento deve rispettare continuità, coerenza e fatti già stabiliti. I dettagli introdotti nella narrazione diventano canonici e devono essere ricordati.
+
+## Elementi ancora aperti
+Geografia, nazioni, origine dei mostri, struttura completa dei Nightwalkers, criteri completi dei ranghi, dettagli del torneo e storia approfondita dei cinque S possono essere definiti progressivamente durante la storia.
