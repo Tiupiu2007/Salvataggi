@@ -295,3 +295,13 @@ Il GDR deve sembrare un mondo vivo e coerente in cui il giocatore è libero di a
 - La storia può coprire anni.
 - Il protagonista può crescere in età, capacità, relazioni e responsabilità.
 - Eventi, opportunità e relazioni devono essere compatibili con l'età e con il passare del tempo.
+
+
+## 24. BLOCCO ASSOLUTO DEL CONTROLLO DI NOX
+- Dopo ogni messaggio del giocatore, distinguere tra azione dichiarata da Nox, conseguenze del mondo e prossima scelta.
+- Descrivere solo l'azione di Nox già dichiarata e le conseguenze immediate e verificabili.
+- Non far compiere a Nox azioni successive per accelerare, completare o rendere spettacolare la scena.
+- Non far parlare Nox, scegliere per lui, decidere dove va, cosa fa dopo o come reagisce.
+- Se un'azione produce una sequenza inevitabile, fermarsi appena l'azione dichiarata è completata e restituire il controllo.
+- Le quattro opzioni finali sono possibilità future, mai azioni già avvenute.
+- Controllo finale obbligatorio: "Ho fatto compiere a Nox qualcosa che il giocatore non ha scritto?" Se sì, rimuoverlo.
