@@ -1,46 +1,40 @@
 # STATO CORRENTE
 
 ## Scena
-Mattina, piccola piazza del paese. Il protagonista è uscito di casa per vedere la città e incontrare qualcuno. Dopo aver superato la zona dell'incidente del carro, una ragazza circa della sua età lo ha fermato riconoscendolo come il ragazzo che abita nella casa all'angolo. Il protagonista le ha confermato di essere lui e le ha chiesto perché lo abbia fermato.
+Inizio della nuova campagna. Nox è uno Slayer dell'associazione Nightwalkers e ha raggiunto il rango A in meno di due giorni. Ha raggiunto il livello più alto del rango A e vuole ottenere il rango S.
+
+Per diventare rango S, Nox deve affrontare Choso, uno degli Slayer di rango S. Il combattimento è stato organizzato come un torneo.
+
+La scena iniziale è nell'arena del torneo, con il combattimento Nox contro Choso imminente o appena iniziato secondo la continuazione della chat.
 
 ## Tempo
-Mattina. Data non stabilita.
+Non stabilito.
 
 ## Luogo
-Piccola piazza con bancarelle, in una cittadina non nominata.
+Arena/luogo del torneo dei Nightwalkers. Dettagli specifici non ancora stabiliti.
 
 ## Presenti
-- Protagonista, 15 anni.
-- Ragazza circa della sua età, non ancora nominata.
-- Altre persone presenti normalmente nella piazza.
+- Nox, protagonista e Slayer di rango A.
+- Choso, Slayer di rango S e avversario di Nox.
+- Feyre, Slayer di rango S, presente nelle tribune e interessata alla figura di Nox.
+- Altri membri del Nightwalkers e spettatori possono essere presenti, ma non sono ancora caratterizzati individualmente.
 
-## Protagonista
-- Identità: da stabilire.
-- Età: 15 anni.
-- Posizione: nella piazza, davanti alla ragazza.
-- Stato fisico: non stabilito.
-- Capacità: basse; dettagli da stabilire.
-- Affinità: da stabilire.
-- Equipaggiamento: da stabilire.
-
-## Ragazza
-- Età: circa quella del protagonista.
-- Nome: non ancora stabilito.
-- Conosce il protagonista almeno di vista e sa in quale casa abita.
-- Ha attirato volontariamente la sua attenzione e gli ha rivolto la parola.
-- Altre caratteristiche: non stabilite.
+## Protagonista: Nox
+- Slayer di rango A.
+- Ha raggiunto il rango A in meno di due giorni.
+- È al livello più alto del rango A.
+- Ha perso la famiglia a causa dei mostri.
+- Dopo la scomparsa dei suoi cari, un sigillo sul suo corpo si è aperto e gli ha conferito un potere straordinario.
+- Desidera diventare uno Slayer di rango S.
+- Età, aspetto, personalità dettagliata, potere preciso, tecniche, equipaggiamento e stile di combattimento: non ancora stabiliti.
 
 ## Conoscenze operative
-- Il protagonista ha visto l'incidente del carro dalla finestra e ha scelto di non intervenire.
-- L'incidente non lo coinvolge direttamente.
-- La ragazza lo ha riconosciuto come abitante della casa all'angolo.
-- Il protagonista non sa ancora chi sia la ragazza né perché lo abbia fermato.
-
-## Conseguenze attive
-- Nessuna conseguenza diretta per il protagonista al momento.
+- Esistono ranghi Nightwalkers dalla D alla S.
+- Il rango S è occupato dai cinque Slayer: Damian, Choso, Rika, Kuro e Feyre.
+- Feyre è considerata la più potente tra i cinque.
+- Nox ha raggiunto il rango A in meno di due giorni, evento che ha sorpreso gli Slayer di rango S.
+- Per entrare nel rango S, Nox deve affrontare Choso in un combattimento organizzato come torneo.
+- Feyre sta osservando Nox dalle tribune ed è incuriosita dalla sua figura.
 
 ## Prossimo punto di continuazione
-La ragazza deve rispondere alla domanda del protagonista: «perché?»
-
-## Regola
-Questo file rappresenta esclusivamente lo stato necessario per riprendere la scena esatta. Quando la scena cambia, sostituire le informazioni obsolete invece di accumularle.
+Continuare dalla scena del torneo, rispettando il controllo assoluto del giocatore su Nox. Non inventare pensieri, emozioni, parole, decisioni o azioni sostanziali di Nox.
