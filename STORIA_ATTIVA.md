@@ -1,26 +1,27 @@
 # STORIA ATTIVA
 
-Questo file è il punto di ingresso rapido della campagna.
+## Campagna
+Nuova campagna GDR: Nightwalkers.
 
-## Stato
-La campagna è pronta per l'inizio reale. Nessuna scena specifica è ancora canonica.
+La vecchia storia è stata completamente azzerata. Nessun personaggio, evento, luogo, relazione, abilità o informazione della campagna precedente è canonico.
 
-## Archivio canonico
-- `REGOLA_MASTER_NARRAZIONE.md` — regole permanenti del GDR.
-- `STORIA_ATTIVA.md` — indice e stato generale della campagna.
-- `STATO_CORRENTE.md` — fotografia esatta della scena attuale, posizione, presenti, conoscenze operative e conseguenze immediate.
-- `MEMORIA_MONDO.md` — fatti permanenti sul mondo, geografia, società, magia, fazioni e storia.
-- `MEMORIA_PERSONAGGI.md` — identità, capacità, personalità, memoria e relazioni dei personaggi.
-- `CRONOLOGIA.md` — sequenza degli eventi canonici.
+## Premessa
+Il mondo è stato sconvolto dall'arrivo di milioni di mostri che hanno portato il mondo nel caos e tentato di soggiogarlo. Gli esseri umani dotati di poteri hanno reagito formando l'associazione di cacciatori di mostri Nightwalkers, i cui combattenti sono chiamati Slayers.
 
-## Protocollo di memoria
-Prima di continuare il GDR, usare questo ordine:
-1. Leggere le regole master.
-2. Leggere lo stato corrente.
-3. Controllare memoria dei personaggi e relazioni coinvolte.
-4. Controllare il mondo quando la scena riguarda fatti geografici, sociali, magici, storici o organizzativi.
-5. Usare la cronologia per verificare la sequenza degli eventi.
-6. Dopo un evento importante, aggiornare gli archivi interessati prima di considerare l'evento definitivamente registrato.
+## Punto di partenza
+I ranghi degli Slayer vanno dalla D alla S. Il rango S è occupato da Damian, Choso, Rika, Kuro e Feyre. Feyre è la più potente tra loro.
 
-## Principio fondamentale
-La memoria deve contenere fatti canonici, non riempitivi. Un dettaglio importante va salvato nel file appropriato; lo stato corrente non deve diventare un secondo archivio duplicato della storia.
+Nox è uno Slayer di rango A che ha raggiunto il livello più alto del rango A in meno di due giorni. Dopo la perdita della sua famiglia a causa dei mostri, un sigillo sul suo corpo si è aperto e gli ha conferito un potere straordinario.
+
+Nox vuole diventare rango S. Per farlo deve affrontare Choso in un combattimento organizzato come torneo.
+
+Feyre osserva Nox dalle tribune ed è incuriosita dalla sua figura.
+
+## Archivi
+- REGOLA_MASTER_NARRAZIONE.md — regole permanenti.
+- PROTOCOLLO_GDR.md — procedura operativa e memoria.
+- STATO_CORRENTE.md — scena esatta corrente.
+- MEMORIA_PERSONAGGI.md — personaggi, caratteristiche e relazioni.
+- MEMORIA_MONDO.md — lore e fatti permanenti del mondo.
+- CRONOLOGIA.md — eventi in ordine.
+- REGISTRO_DECISIONI.md — decisioni di design, non cronaca narrativa.
