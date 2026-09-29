@@ -17,7 +17,8 @@ Arena/luogo del torneo dei Nightwalkers. Dettagli specifici non ancora stabiliti
 - Nox, protagonista e Slayer di rango A.
 - Choso, Slayer di rango S e avversario di Nox.
 - Feyre, Slayer di rango S, presente nelle tribune e interessata alla figura di Nox.
-- Altri membri del Nightwalkers e spettatori possono essere presenti, ma non sono ancora caratterizzati individualmente.
+- Damian, Rika e Kuro sono Slayer di rango S; la loro presenza fisica all'arena in questo preciso momento non è ancora stabilita.
+- Altri membri del Nightwalkers e spettatori possono essere presenti.
 
 ## Protagonista: Nox
 - Slayer di rango A.
@@ -26,15 +27,19 @@ Arena/luogo del torneo dei Nightwalkers. Dettagli specifici non ancora stabiliti
 - Ha perso la famiglia a causa dei mostri.
 - Dopo la scomparsa dei suoi cari, un sigillo sul suo corpo si è aperto e gli ha conferito un potere straordinario.
 - Desidera diventare uno Slayer di rango S.
-- Età, aspetto, personalità dettagliata, potere preciso, tecniche, equipaggiamento e stile di combattimento: non ancora stabiliti.
+- Età, aspetto, personalità dettagliata, potere preciso, tecniche, equipaggiamento e stile di combattimento: non ancora stabiliti dal giocatore.
+
+## Regola per dettagli futuri
+Il narratore può inventare dettagli non ancora stabiliti per nemici, mostri, PNG, ambientazione, organizzazione, tecniche secondarie, eventi e altri elementi necessari alla storia. I nuovi dettagli devono essere coerenti con il canone esistente e diventano canonici quando vengono introdotti nella storia.
+Non inventare invece pensieri, emozioni, intenzioni, dialoghi, decisioni o azioni sostanziali di Nox.
 
 ## Conoscenze operative
 - Esistono ranghi Nightwalkers dalla D alla S.
 - Il rango S è occupato dai cinque Slayer: Damian, Choso, Rika, Kuro e Feyre.
-- Feyre è considerata la più potente tra i cinque.
+- Feyre è la più potente tra i cinque.
 - Nox ha raggiunto il rango A in meno di due giorni, evento che ha sorpreso gli Slayer di rango S.
 - Per entrare nel rango S, Nox deve affrontare Choso in un combattimento organizzato come torneo.
 - Feyre sta osservando Nox dalle tribune ed è incuriosita dalla sua figura.
 
 ## Prossimo punto di continuazione
-Continuare dalla scena del torneo, rispettando il controllo assoluto del giocatore su Nox. Non inventare pensieri, emozioni, parole, decisioni o azioni sostanziali di Nox.
+Continuare dalla scena del torneo, rispettando il controllo assoluto del giocatore su Nox.
