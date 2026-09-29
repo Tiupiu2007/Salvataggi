@@ -123,7 +123,7 @@ Questo file contiene il registro dei personaggi canonici della nuova campagna.
 - Età: 22 anni.
 - Sesso: femmina.
 - Altezza: 1,68 m.
-- Aspetto: corporatura agile; capelli corti, scompigliati, rosso fuoco; occhi ambrati.
+- Aspetto: corporatura agile; capelli lunghi, scompigliati, rosso fuoco; occhi ambrati.
 - Abbigliamento: abiti agili, giacca corta e scarpe da ginnastica rinforzate per la massima mobilità.
 - Segno distintivo: orecchino a cerchio multiplo sull'orecchio destro.
 - Personalità: impulsiva, energica ed estroversa; motore emotivo e a volte caotico del gruppo.
